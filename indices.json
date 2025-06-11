@@ -1,0 +1,1941 @@
+[
+	{
+		"id": 12,
+		"underlying_asset_id": 13,
+		"symbol": ".DEXBTUSDT",
+		"underlying_asset": "BTC",
+		"exchanges": ["binance", "bybit", "okex"]
+	},
+	{
+		"id": 13,
+		"underlying_asset_id": 15,
+		"symbol": ".DEUSDTUSD",
+		"underlying_asset": "null",
+		"exchanges": "null"
+	},
+	{
+		"id": 14,
+		"underlying_asset_id": 13,
+		"symbol": ".DEXBTUSD",
+		"underlying_asset": "BTC",
+		"exchanges": "null"
+	},
+	{
+		"id": 15,
+		"underlying_asset_id": 12,
+		"symbol": ".DEETHUSDT",
+		"underlying_asset": "ETH",
+		"exchanges": ["binance", "bybit", "okex"]
+	},
+	{
+		"id": 17,
+		"underlying_asset_id": 12,
+		"symbol": ".DEETHUSD",
+		"underlying_asset": "ETH",
+		"exchanges": "null"
+	},
+	{
+		"id": 18,
+		"underlying_asset_id": 16,
+		"symbol": ".DEDOGEUSDT",
+		"underlying_asset": "DOGE",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 19,
+		"underlying_asset_id": 17,
+		"symbol": ".DESOLUSDT",
+		"underlying_asset": "SOL",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 20,
+		"underlying_asset_id": 18,
+		"symbol": ".DEAVAXUSDT",
+		"underlying_asset": "AVAX",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 21,
+		"underlying_asset_id": 19,
+		"symbol": ".DEXRPUSDT",
+		"underlying_asset": "XRP",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 23,
+		"underlying_asset_id": 21,
+		"symbol": ".DEBCHUSDT",
+		"underlying_asset": "BCH",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 24,
+		"underlying_asset_id": 22,
+		"symbol": ".DELTCUSDT",
+		"underlying_asset": "LTC",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 26,
+		"underlying_asset_id": 24,
+		"symbol": ".DEBNBUSDT",
+		"underlying_asset": "BNB",
+		"exchanges": ["binance", "gateio"]
+	},
+	{
+		"id": 27,
+		"underlying_asset_id": 25,
+		"symbol": ".DELINKUSDT",
+		"underlying_asset": "LINK",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 28,
+		"underlying_asset_id": 16,
+		"symbol": ".DEDOGEUSD",
+		"underlying_asset": "DOGE",
+		"exchanges": "null"
+	},
+	{
+		"id": 29,
+		"underlying_asset_id": 17,
+		"symbol": ".DESOLUSD",
+		"underlying_asset": "SOL",
+		"exchanges": "null"
+	},
+	{
+		"id": 30,
+		"underlying_asset_id": 18,
+		"symbol": ".DEAVAXUSD",
+		"underlying_asset": "AVAX",
+		"exchanges": "null"
+	},
+	{
+		"id": 31,
+		"underlying_asset_id": 19,
+		"symbol": ".DEXRPUSD",
+		"underlying_asset": "XRP",
+		"exchanges": "null"
+	},
+	{
+		"id": 33,
+		"underlying_asset_id": 21,
+		"symbol": ".DEBCHUSD",
+		"underlying_asset": "BCH",
+		"exchanges": "null"
+	},
+	{
+		"id": 34,
+		"underlying_asset_id": 22,
+		"symbol": ".DELTCUSD",
+		"underlying_asset": "LTC",
+		"exchanges": "null"
+	},
+	{
+		"id": 36,
+		"underlying_asset_id": 24,
+		"symbol": ".DEBNBUSD",
+		"underlying_asset": "BNB",
+		"exchanges": "null"
+	},
+	{
+		"id": 37,
+		"underlying_asset_id": 25,
+		"symbol": ".DELINKUSD",
+		"underlying_asset": "LINK",
+		"exchanges": "null"
+	},
+	{
+		"id": 38,
+		"underlying_asset_id": 28,
+		"symbol": ".DEDOTUSDT",
+		"underlying_asset": "DOT",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 39,
+		"underlying_asset_id": 28,
+		"symbol": ".DEDOTUSD",
+		"underlying_asset": "DOT",
+		"exchanges": "null"
+	},
+	{
+		"id": 40,
+		"underlying_asset_id": 26,
+		"symbol": ".DEWIFUSDT",
+		"underlying_asset": "WIF",
+		"exchanges": ["binance", "bybit", "gateio"]
+	},
+	{
+		"id": 41,
+		"underlying_asset_id": 26,
+		"symbol": ".DEWIFUSD",
+		"underlying_asset": "WIF",
+		"exchanges": "null"
+	},
+	{
+		"id": 42,
+		"underlying_asset_id": 27,
+		"symbol": ".DEUNIUSDT",
+		"underlying_asset": "UNI",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 43,
+		"underlying_asset_id": 27,
+		"symbol": ".DEUNIUSD",
+		"underlying_asset": "UNI",
+		"exchanges": "null"
+	},
+	{
+		"id": 44,
+		"underlying_asset_id": 29,
+		"symbol": ".DESHIBUSDT",
+		"underlying_asset": "SHIB",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 45,
+		"underlying_asset_id": 30,
+		"symbol": ".DEBONKUSDT",
+		"underlying_asset": "BONK",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 46,
+		"underlying_asset_id": 29,
+		"symbol": ".DESHIBUSD",
+		"underlying_asset": "SHIB",
+		"exchanges": "null"
+	},
+	{
+		"id": 47,
+		"underlying_asset_id": 30,
+		"symbol": ".DEBONKUSD",
+		"underlying_asset": "BONK",
+		"exchanges": "null"
+	},
+	{
+		"id": 48,
+		"underlying_asset_id": 31,
+		"symbol": ".DEATOMUSDT",
+		"underlying_asset": "ATOM",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 49,
+		"underlying_asset_id": 32,
+		"symbol": ".DEADAUSDT",
+		"underlying_asset": "ADA",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 50,
+		"underlying_asset_id": 33,
+		"symbol": ".DENEARUSDT",
+		"underlying_asset": "NEAR",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 51,
+		"underlying_asset_id": 34,
+		"symbol": ".DEALGOUSDT",
+		"underlying_asset": "ALGO",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 52,
+		"underlying_asset_id": 35,
+		"symbol": ".DEINJUSDT",
+		"underlying_asset": "INJ",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 53,
+		"underlying_asset_id": 31,
+		"symbol": ".DEATOMUSD",
+		"underlying_asset": "ATOM",
+		"exchanges": "null"
+	},
+	{
+		"id": 54,
+		"underlying_asset_id": 32,
+		"symbol": ".DEADAUSD",
+		"underlying_asset": "ADA",
+		"exchanges": "null"
+	},
+	{
+		"id": 55,
+		"underlying_asset_id": 33,
+		"symbol": ".DENEARUSD",
+		"underlying_asset": "NEAR",
+		"exchanges": "null"
+	},
+	{
+		"id": 56,
+		"underlying_asset_id": 34,
+		"symbol": ".DEALGOUSD",
+		"underlying_asset": "ALGO",
+		"exchanges": "null"
+	},
+	{
+		"id": 57,
+		"underlying_asset_id": 35,
+		"symbol": ".DEINJUSD",
+		"underlying_asset": "INJ",
+		"exchanges": "null"
+	},
+	{
+		"id": 58,
+		"underlying_asset_id": 36,
+		"symbol": ".DEWLDUSDT",
+		"underlying_asset": "WLD",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 60,
+		"underlying_asset_id": 38,
+		"symbol": ".DESUIUSDT",
+		"underlying_asset": "SUI",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 61,
+		"underlying_asset_id": 39,
+		"symbol": ".DESEIUSDT",
+		"underlying_asset": "SEI",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 62,
+		"underlying_asset_id": 40,
+		"symbol": ".DETIAUSDT",
+		"underlying_asset": "TIA",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 63,
+		"underlying_asset_id": 41,
+		"symbol": ".DEARBUSDT",
+		"underlying_asset": "ARB",
+		"exchanges": ["binance", "bybit", "okex"]
+	},
+	{
+		"id": 64,
+		"underlying_asset_id": 36,
+		"symbol": ".DEWLDUSD",
+		"underlying_asset": "WLD",
+		"exchanges": "null"
+	},
+	{
+		"id": 66,
+		"underlying_asset_id": 38,
+		"symbol": ".DESUIUSD",
+		"underlying_asset": "SUI",
+		"exchanges": "null"
+	},
+	{
+		"id": 67,
+		"underlying_asset_id": 39,
+		"symbol": ".DESEIUSD",
+		"underlying_asset": "SEI",
+		"exchanges": "null"
+	},
+	{
+		"id": 68,
+		"underlying_asset_id": 40,
+		"symbol": ".DETIAUSD",
+		"underlying_asset": "TIA",
+		"exchanges": "null"
+	},
+	{
+		"id": 69,
+		"underlying_asset_id": 41,
+		"symbol": ".DEARBUSD",
+		"underlying_asset": "ARB",
+		"exchanges": "null"
+	},
+	{
+		"id": 70,
+		"underlying_asset_id": 42,
+		"symbol": ".DEPEPEUSDT",
+		"underlying_asset": "PEPE",
+		"exchanges": ["binance", "okex", "bybit"]
+	},
+	{
+		"id": 71,
+		"underlying_asset_id": 42,
+		"symbol": ".DEPEPEUSD",
+		"underlying_asset": "PEPE",
+		"exchanges": "null"
+	},
+	{
+		"id": 72,
+		"underlying_asset_id": 43,
+		"symbol": ".DEFLOKIUSDT",
+		"underlying_asset": "FLOKI",
+		"exchanges": ["binance", "okex", "bybit"]
+	},
+	{
+		"id": 73,
+		"underlying_asset_id": 43,
+		"symbol": ".DEFLOKIUSD",
+		"underlying_asset": "FLOKI",
+		"exchanges": "null"
+	},
+	{
+		"id": 74,
+		"underlying_asset_id": 44,
+		"symbol": ".DEMEMEUSDT",
+		"underlying_asset": "MEME",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 75,
+		"underlying_asset_id": 44,
+		"symbol": ".DEMEMEUSD",
+		"underlying_asset": "MEME",
+		"exchanges": "null"
+	},
+	{
+		"id": 76,
+		"underlying_asset_id": 45,
+		"symbol": ".DEORDIUSDT",
+		"underlying_asset": "ORDI",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 77,
+		"underlying_asset_id": 45,
+		"symbol": ".DEORDIUSD",
+		"underlying_asset": "ORDI",
+		"exchanges": "null"
+	},
+	{
+		"id": 78,
+		"underlying_asset_id": 46,
+		"symbol": ".DEHBARUSDT",
+		"underlying_asset": "HBAR",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 79,
+		"underlying_asset_id": 46,
+		"symbol": ".DEHBARUSD",
+		"underlying_asset": "HBAR",
+		"exchanges": "null"
+	},
+	{
+		"id": 80,
+		"underlying_asset_id": 47,
+		"symbol": ".DEJTOUSDT",
+		"underlying_asset": "JTO",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 81,
+		"underlying_asset_id": 47,
+		"symbol": ".DEJTOUSD",
+		"underlying_asset": "JTO",
+		"exchanges": "null"
+	},
+	{
+		"id": 82,
+		"underlying_asset_id": 48,
+		"symbol": ".DEAAVEUSDT",
+		"underlying_asset": "AAVE",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 83,
+		"underlying_asset_id": 48,
+		"symbol": ".DEAAVEUSD",
+		"underlying_asset": "AAVE",
+		"exchanges": "null"
+	},
+	{
+		"id": 84,
+		"underlying_asset_id": 49,
+		"symbol": ".DEONDOUSDT",
+		"underlying_asset": "ONDO",
+		"exchanges": ["bybit", "gateio"]
+	},
+	{
+		"id": 85,
+		"underlying_asset_id": 49,
+		"symbol": ".DEONDOUSD",
+		"underlying_asset": "ONDO",
+		"exchanges": "null"
+	},
+	{
+		"id": 86,
+		"underlying_asset_id": 50,
+		"symbol": ".DEPENDLEUSDT",
+		"underlying_asset": "PENDLE",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 87,
+		"underlying_asset_id": 50,
+		"symbol": ".DEPENDLEUSD",
+		"underlying_asset": "PENDLE",
+		"exchanges": "null"
+	},
+	{
+		"id": 88,
+		"underlying_asset_id": 51,
+		"symbol": ".DEENAUSDT",
+		"underlying_asset": "ENA",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 89,
+		"underlying_asset_id": 51,
+		"symbol": ".DEENAUSD",
+		"underlying_asset": "ENA",
+		"exchanges": "null"
+	},
+	{
+		"id": 90,
+		"underlying_asset_id": 52,
+		"symbol": ".DEOPUSDT",
+		"underlying_asset": "OP",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 91,
+		"underlying_asset_id": 52,
+		"symbol": ".DEOPUSD",
+		"underlying_asset": "OP",
+		"exchanges": "null"
+	},
+	{
+		"id": 92,
+		"underlying_asset_id": 53,
+		"symbol": ".DETRBUSDT",
+		"underlying_asset": "TRB",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 93,
+		"underlying_asset_id": 53,
+		"symbol": ".DETRBUSD",
+		"underlying_asset": "TRB",
+		"exchanges": "null"
+	},
+	{
+		"id": 94,
+		"underlying_asset_id": 54,
+		"symbol": ".DEETCUSDT",
+		"underlying_asset": "ETC",
+		"exchanges": ["okex", "binance"]
+	},
+	{
+		"id": 95,
+		"underlying_asset_id": 54,
+		"symbol": ".DEETCUSD",
+		"underlying_asset": "ETC",
+		"exchanges": "null"
+	},
+	{
+		"id": 96,
+		"underlying_asset_id": 55,
+		"symbol": ".DELDOUSDT",
+		"underlying_asset": "LDO",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 97,
+		"underlying_asset_id": 55,
+		"symbol": ".DELDOUSD",
+		"underlying_asset": "LDO",
+		"exchanges": "null"
+	},
+	{
+		"id": 98,
+		"underlying_asset_id": 56,
+		"symbol": ".DEFILUSDT",
+		"underlying_asset": "FIL",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 99,
+		"underlying_asset_id": 56,
+		"symbol": ".DEFILUSD",
+		"underlying_asset": "FIL",
+		"exchanges": "null"
+	},
+	{
+		"id": 100,
+		"underlying_asset_id": 58,
+		"symbol": ".DETRXUSDT",
+		"underlying_asset": "TRX",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 101,
+		"underlying_asset_id": 58,
+		"symbol": ".DETRXUSD",
+		"underlying_asset": "TRX",
+		"exchanges": "null"
+	},
+	{
+		"id": 102,
+		"underlying_asset_id": 59,
+		"symbol": ".DEALTUSDT",
+		"underlying_asset": "ALT",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 103,
+		"underlying_asset_id": 59,
+		"symbol": ".DEALTUSD",
+		"underlying_asset": "ALT",
+		"exchanges": "null"
+	},
+	{
+		"id": 104,
+		"underlying_asset_id": 60,
+		"symbol": ".DESTXUSDT",
+		"underlying_asset": "STX",
+		"exchanges": ["binance", "gateio"]
+	},
+	{
+		"id": 105,
+		"underlying_asset_id": 60,
+		"symbol": ".DESTXUSD",
+		"underlying_asset": "STX",
+		"exchanges": "null"
+	},
+	{
+		"id": 106,
+		"underlying_asset_id": 61,
+		"symbol": ".DEAPTUSDT",
+		"underlying_asset": "APT",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 107,
+		"underlying_asset_id": 61,
+		"symbol": ".DEAPTUSD",
+		"underlying_asset": "APT",
+		"exchanges": "null"
+	},
+	{
+		"id": 108,
+		"underlying_asset_id": 62,
+		"symbol": ".DEXAIUSDT",
+		"underlying_asset": "XAI",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 109,
+		"underlying_asset_id": 62,
+		"symbol": ".DEXAIUSD",
+		"underlying_asset": "XAI",
+		"exchanges": "null"
+	},
+	{
+		"id": 110,
+		"underlying_asset_id": 63,
+		"symbol": ".DERUNEUSDT",
+		"underlying_asset": "RUNE",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 111,
+		"underlying_asset_id": 63,
+		"symbol": ".DERUNEUSD",
+		"underlying_asset": "RUNE",
+		"exchanges": "null"
+	},
+	{
+		"id": 112,
+		"underlying_asset_id": 64,
+		"symbol": ".DEARUSDT",
+		"underlying_asset": "AR",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 113,
+		"underlying_asset_id": 64,
+		"symbol": ".DEARUSD",
+		"underlying_asset": "AR",
+		"exchanges": "null"
+	},
+	{
+		"id": 114,
+		"underlying_asset_id": 65,
+		"symbol": ".DEMKRUSDT",
+		"underlying_asset": "MKR",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 115,
+		"underlying_asset_id": 65,
+		"symbol": ".DEMKRUSD",
+		"underlying_asset": "MKR",
+		"exchanges": "null"
+	},
+	{
+		"id": 116,
+		"underlying_asset_id": 66,
+		"symbol": ".DESUSHIUSDT",
+		"underlying_asset": "SUSHI",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 117,
+		"underlying_asset_id": 66,
+		"symbol": ".DESUSHIUSD",
+		"underlying_asset": "SUSHI",
+		"exchanges": "null"
+	},
+	{
+		"id": 118,
+		"underlying_asset_id": 67,
+		"symbol": ".DEDYDXUSDT",
+		"underlying_asset": "DYDX",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 119,
+		"underlying_asset_id": 67,
+		"symbol": ".DEDYDXUSD",
+		"underlying_asset": "DYDX",
+		"exchanges": "null"
+	},
+	{
+		"id": 120,
+		"underlying_asset_id": 68,
+		"symbol": ".DEPEOPLEUSDT",
+		"underlying_asset": "PEOPLE",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 121,
+		"underlying_asset_id": 68,
+		"symbol": ".DEPEOPLEUSD",
+		"underlying_asset": "PEOPLE",
+		"exchanges": "null"
+	},
+	{
+		"id": 122,
+		"underlying_asset_id": 69,
+		"symbol": ".DEETHFIUSDT",
+		"underlying_asset": "ETHFI",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 123,
+		"underlying_asset_id": 69,
+		"symbol": ".DEETHFIUSD",
+		"underlying_asset": "ETHFI",
+		"exchanges": "null"
+	},
+	{
+		"id": 124,
+		"underlying_asset_id": 70,
+		"symbol": ".DENOTUSDT",
+		"underlying_asset": "NOT",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 125,
+		"underlying_asset_id": 70,
+		"symbol": ".DENOTUSD",
+		"underlying_asset": "NOT",
+		"exchanges": "null"
+	},
+	{
+		"id": 126,
+		"underlying_asset_id": 71,
+		"symbol": ".DEBBUSDT",
+		"underlying_asset": "BB",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 127,
+		"underlying_asset_id": 71,
+		"symbol": ".DEBBUSD",
+		"underlying_asset": "BB",
+		"exchanges": "null"
+	},
+	{
+		"id": 128,
+		"underlying_asset_id": 72,
+		"symbol": ".DEZROUSDT",
+		"underlying_asset": "ZRO",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 129,
+		"underlying_asset_id": 72,
+		"symbol": ".DEZROUSD",
+		"underlying_asset": "ZRO",
+		"exchanges": "null"
+	},
+	{
+		"id": 130,
+		"underlying_asset_id": 73,
+		"symbol": ".DEZKUSDT",
+		"underlying_asset": "ZK",
+		"exchanges": ["binance", "gateio", "bybit"]
+	},
+	{
+		"id": 131,
+		"underlying_asset_id": 73,
+		"symbol": ".DEZKUSD",
+		"underlying_asset": "ZK",
+		"exchanges": "null"
+	},
+	{
+		"id": 132,
+		"underlying_asset_id": 74,
+		"symbol": ".DEIOUSDT",
+		"underlying_asset": "IO",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 133,
+		"underlying_asset_id": 74,
+		"symbol": ".DEIOUSD",
+		"underlying_asset": "IO",
+		"exchanges": "null"
+	},
+	{
+		"id": 134,
+		"underlying_asset_id": 75,
+		"symbol": ".DELISTAUSDT",
+		"underlying_asset": "LISTA",
+		"exchanges": ["binance", "gateio"]
+	},
+	{
+		"id": 135,
+		"underlying_asset_id": 75,
+		"symbol": ".DELISTAUSD",
+		"underlying_asset": "LISTA",
+		"exchanges": "null"
+	},
+	{
+		"id": 136,
+		"underlying_asset_id": 76,
+		"symbol": ".DETAOUSDT",
+		"underlying_asset": "TAO",
+		"exchanges": ["binance", "gateio"]
+	},
+	{
+		"id": 137,
+		"underlying_asset_id": 76,
+		"symbol": ".DETAOUSD",
+		"underlying_asset": "TAO",
+		"exchanges": "null"
+	},
+	{
+		"id": 138,
+		"underlying_asset_id": 77,
+		"symbol": ".DEOMNIUSDT",
+		"underlying_asset": "OMNI",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 139,
+		"underlying_asset_id": 77,
+		"symbol": ".DEOMNIUSD",
+		"underlying_asset": "OMNI",
+		"exchanges": "null"
+	},
+	{
+		"id": 140,
+		"underlying_asset_id": 78,
+		"symbol": ".DEBLURUSDT",
+		"underlying_asset": "BLUR",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 141,
+		"underlying_asset_id": 78,
+		"symbol": ".DEBLURUSD",
+		"underlying_asset": "BLUR",
+		"exchanges": "null"
+	},
+	{
+		"id": 142,
+		"underlying_asset_id": 79,
+		"symbol": ".DEGALAUSDT",
+		"underlying_asset": "GALA",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 143,
+		"underlying_asset_id": 79,
+		"symbol": ".DEGALAUSD",
+		"underlying_asset": "GALA",
+		"exchanges": "null"
+	},
+	{
+		"id": 144,
+		"underlying_asset_id": 80,
+		"symbol": ".DEMANTAUSDT",
+		"underlying_asset": "MANTA",
+		"exchanges": ["binance", "gateio"]
+	},
+	{
+		"id": 145,
+		"underlying_asset_id": 80,
+		"symbol": ".DEMANTAUSD",
+		"underlying_asset": "MANTA",
+		"exchanges": "null"
+	},
+	{
+		"id": 146,
+		"underlying_asset_id": 81,
+		"symbol": ".DEEIGENUSDT",
+		"underlying_asset": "EIGEN",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 147,
+		"underlying_asset_id": 81,
+		"symbol": ".DEEIGENUSD",
+		"underlying_asset": "EIGEN",
+		"exchanges": "null"
+	},
+	{
+		"id": 148,
+		"underlying_asset_id": 82,
+		"symbol": ".DEPOLUSDT",
+		"underlying_asset": "POL",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 149,
+		"underlying_asset_id": 82,
+		"symbol": ".DEPOLUSD",
+		"underlying_asset": "POL",
+		"exchanges": "null"
+	},
+	{
+		"id": 150,
+		"underlying_asset_id": 83,
+		"symbol": ".DENEIROUSDT",
+		"underlying_asset": "NEIRO",
+		"exchanges": ["binance"]
+	},
+	{
+		"id": 151,
+		"underlying_asset_id": 83,
+		"symbol": ".DENEIROUSD",
+		"underlying_asset": "NEIRO",
+		"exchanges": "null"
+	},
+	{
+		"id": 152,
+		"underlying_asset_id": 84,
+		"symbol": ".DESAGAUSDT",
+		"underlying_asset": "SAGA",
+		"exchanges": ["binance", "gateio"]
+	},
+	{
+		"id": 153,
+		"underlying_asset_id": 84,
+		"symbol": ".DESAGAUSD",
+		"underlying_asset": "SAGA",
+		"exchanges": "null"
+	},
+	{
+		"id": 154,
+		"underlying_asset_id": 85,
+		"symbol": ".DEPNUTUSDT",
+		"underlying_asset": "PNUT",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 155,
+		"underlying_asset_id": 85,
+		"symbol": ".DEPNUTUSD",
+		"underlying_asset": "PNUT",
+		"exchanges": "null"
+	},
+	{
+		"id": 156,
+		"underlying_asset_id": 86,
+		"symbol": ".DEACTUSDT",
+		"underlying_asset": "ACT",
+		"exchanges": ["binance", "okex", "bitget"]
+	},
+	{
+		"id": 157,
+		"underlying_asset_id": 86,
+		"symbol": ".DEACTUSD",
+		"underlying_asset": "ACT",
+		"exchanges": "null"
+	},
+	{
+		"id": 158,
+		"underlying_asset_id": 87,
+		"symbol": ".DEPOPCATUSDT",
+		"underlying_asset": "POPCAT",
+		"exchanges": ["bybit", "gateio"]
+	},
+	{
+		"id": 159,
+		"underlying_asset_id": 87,
+		"symbol": ".DEPOPCATUSD",
+		"underlying_asset": "POPCAT",
+		"exchanges": "null"
+	},
+	{
+		"id": 160,
+		"underlying_asset_id": 90,
+		"symbol": ".DEMANAUSDT",
+		"underlying_asset": "MANA",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 161,
+		"underlying_asset_id": 90,
+		"symbol": ".DEMANAUSD",
+		"underlying_asset": "MANA",
+		"exchanges": "null"
+	},
+	{
+		"id": 162,
+		"underlying_asset_id": 89,
+		"symbol": ".DESANDUSDT",
+		"underlying_asset": "SAND",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 163,
+		"underlying_asset_id": 89,
+		"symbol": ".DESANDUSD",
+		"underlying_asset": "SAND",
+		"exchanges": "null"
+	},
+	{
+		"id": 164,
+		"underlying_asset_id": 88,
+		"symbol": ".DEXLMUSDT",
+		"underlying_asset": "XLM",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 165,
+		"underlying_asset_id": 88,
+		"symbol": ".DEXLMUSD",
+		"underlying_asset": "XLM",
+		"exchanges": "null"
+	},
+	{
+		"id": 166,
+		"underlying_asset_id": 91,
+		"symbol": ".DEKSMUSDT",
+		"underlying_asset": "KSM",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 167,
+		"underlying_asset_id": 91,
+		"symbol": ".DEKSMUSD",
+		"underlying_asset": "KSM",
+		"exchanges": "null"
+	},
+	{
+		"id": 168,
+		"underlying_asset_id": 92,
+		"symbol": ".DEGOATUSDT",
+		"underlying_asset": "GOAT",
+		"exchanges": ["bybit", "gateio"]
+	},
+	{
+		"id": 169,
+		"underlying_asset_id": 92,
+		"symbol": ".DEGOATUSD",
+		"underlying_asset": "GOAT",
+		"exchanges": "null"
+	},
+	{
+		"id": 170,
+		"underlying_asset_id": 93,
+		"symbol": ".DERSRUSDT",
+		"underlying_asset": "RSR",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 171,
+		"underlying_asset_id": 93,
+		"symbol": ".DERSRUSD",
+		"underlying_asset": "RSR",
+		"exchanges": "null"
+	},
+	{
+		"id": 174,
+		"underlying_asset_id": 95,
+		"symbol": ".DEIOTAUSDT",
+		"underlying_asset": "IOTA",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 175,
+		"underlying_asset_id": 95,
+		"symbol": ".DEIOTAUSD",
+		"underlying_asset": "IOTA",
+		"exchanges": "null"
+	},
+	{
+		"id": 176,
+		"underlying_asset_id": 96,
+		"symbol": ".DEOMUSDT",
+		"underlying_asset": "OM",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 177,
+		"underlying_asset_id": 96,
+		"symbol": ".DEOMUSD",
+		"underlying_asset": "OM",
+		"exchanges": "null"
+	},
+	{
+		"id": 178,
+		"underlying_asset_id": 97,
+		"symbol": ".DEMOODENGUSDT",
+		"underlying_asset": "MOODENG",
+		"exchanges": ["okex", "gateio"]
+	},
+	{
+		"id": 179,
+		"underlying_asset_id": 97,
+		"symbol": ".DEMOODENGUSD",
+		"underlying_asset": "MOODENG",
+		"exchanges": "null"
+	},
+	{
+		"id": 180,
+		"underlying_asset_id": 98,
+		"symbol": ".DESUNUSDT",
+		"underlying_asset": "SUN",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 181,
+		"underlying_asset_id": 98,
+		"symbol": ".DESUNUSD",
+		"underlying_asset": "SUN",
+		"exchanges": "null"
+	},
+	{
+		"id": 182,
+		"underlying_asset_id": 99,
+		"symbol": ".DEDOGSUSDT",
+		"underlying_asset": "DOGS",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 183,
+		"underlying_asset_id": 99,
+		"symbol": ".DEDOGSUSD",
+		"underlying_asset": "DOGS",
+		"exchanges": "null"
+	},
+	{
+		"id": 184,
+		"underlying_asset_id": 100,
+		"symbol": ".DEJASMYUSDT",
+		"underlying_asset": "JASMY",
+		"exchanges": ["binance", "bybit"]
+	},
+	{
+		"id": 185,
+		"underlying_asset_id": 100,
+		"symbol": ".DEJASMYUSD",
+		"underlying_asset": "JASMY",
+		"exchanges": "null"
+	},
+	{
+		"id": 186,
+		"underlying_asset_id": 103,
+		"symbol": ".DEBABYDOGEUSDT",
+		"underlying_asset": "BABYDOGE",
+		"exchanges": ["okex", "gateio", "bybit"]
+	},
+	{
+		"id": 187,
+		"underlying_asset_id": 104,
+		"symbol": ".DE1MBABYDOGEUSD",
+		"underlying_asset": "1MBABYDOGE",
+		"exchanges": "null"
+	},
+	{
+		"id": 188,
+		"underlying_asset_id": 101,
+		"symbol": ".DESATSUSDT",
+		"underlying_asset": "SATS",
+		"exchanges": ["okex", "gateio", "bitget"]
+	},
+	{
+		"id": 189,
+		"underlying_asset_id": 102,
+		"symbol": ".DE1000SATSUSD",
+		"underlying_asset": "1000SATS",
+		"exchanges": "null"
+	},
+	{
+		"id": 190,
+		"underlying_asset_id": 105,
+		"symbol": ".DEVIRTUALUSDT",
+		"underlying_asset": "VIRTUAL",
+		"exchanges": ["bybit", "gateio"]
+	},
+	{
+		"id": 191,
+		"underlying_asset_id": 105,
+		"symbol": ".DEVIRTUALUSD",
+		"underlying_asset": "VIRTUAL",
+		"exchanges": "null"
+	},
+	{
+		"id": 192,
+		"underlying_asset_id": 106,
+		"symbol": ".DEUSUALUSDT",
+		"underlying_asset": "USUAL",
+		"exchanges": ["binance", "gateio"]
+	},
+	{
+		"id": 193,
+		"underlying_asset_id": 106,
+		"symbol": ".DEUSUALUSD",
+		"underlying_asset": "USUAL",
+		"exchanges": "null"
+	},
+	{
+		"id": 194,
+		"underlying_asset_id": 107,
+		"symbol": ".DEFARTCOINUSDT",
+		"underlying_asset": "FARTCOIN",
+		"exchanges": ["gateio", "bitget"]
+	},
+	{
+		"id": 195,
+		"underlying_asset_id": 107,
+		"symbol": ".DEFARTCOINUSD",
+		"underlying_asset": "FARTCOIN",
+		"exchanges": "null"
+	},
+	{
+		"id": 196,
+		"underlying_asset_id": 108,
+		"symbol": ".DEAI16ZUSDT",
+		"underlying_asset": "AI16Z",
+		"exchanges": ["gateio", "bybit", "bitget"]
+	},
+	{
+		"id": 197,
+		"underlying_asset_id": 108,
+		"symbol": ".DEAI16ZUSD",
+		"underlying_asset": "AI16Z",
+		"exchanges": "null"
+	},
+	{
+		"id": 198,
+		"underlying_asset_id": 109,
+		"symbol": ".DEAIXBTUSDT",
+		"underlying_asset": "AIXBT",
+		"exchanges": ["binance", "gateio", "bybit"]
+	},
+	{
+		"id": 199,
+		"underlying_asset_id": 109,
+		"symbol": ".DEAIXBTUSD",
+		"underlying_asset": "AIXBT",
+		"exchanges": "null"
+	},
+	{
+		"id": 200,
+		"underlying_asset_id": 110,
+		"symbol": ".DEPENGUUSDT",
+		"underlying_asset": "PENGU",
+		"exchanges": ["binance", "okex", "bybit"]
+	},
+	{
+		"id": 201,
+		"underlying_asset_id": 110,
+		"symbol": ".DEPENGUUSD",
+		"underlying_asset": "PENGU",
+		"exchanges": "null"
+	},
+	{
+		"id": 202,
+		"underlying_asset_id": 111,
+		"symbol": ".DEMOVEUSDT",
+		"underlying_asset": "MOVE",
+		"exchanges": ["binance", "okex", "bybit"]
+	},
+	{
+		"id": 203,
+		"underlying_asset_id": 111,
+		"symbol": ".DEMOVEUSD",
+		"underlying_asset": "MOVE",
+		"exchanges": "null"
+	},
+	{
+		"id": 204,
+		"underlying_asset_id": 112,
+		"symbol": ".DEBIOUSDT",
+		"underlying_asset": "BIO",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 205,
+		"underlying_asset_id": 112,
+		"symbol": ".DEBIOUSD",
+		"underlying_asset": "BIO",
+		"exchanges": "null"
+	},
+	{
+		"id": 206,
+		"underlying_asset_id": 113,
+		"symbol": ".DESONICUSDT",
+		"underlying_asset": "SONIC",
+		"exchanges": ["bybit", "okex"]
+	},
+	{
+		"id": 207,
+		"underlying_asset_id": 113,
+		"symbol": ".DESONICUSD",
+		"underlying_asset": "SONIC",
+		"exchanges": "null"
+	},
+	{
+		"id": 208,
+		"underlying_asset_id": 114,
+		"symbol": ".DEHIVEUSDT",
+		"underlying_asset": "HIVE",
+		"exchanges": ["binance", "gateio"]
+	},
+	{
+		"id": 209,
+		"underlying_asset_id": 114,
+		"symbol": ".DEHIVEUSD",
+		"underlying_asset": "HIVE",
+		"exchanges": "null"
+	},
+	{
+		"id": 210,
+		"underlying_asset_id": 115,
+		"symbol": ".DESPXUSDT",
+		"underlying_asset": "SPX",
+		"exchanges": ["bybit", "gateio"]
+	},
+	{
+		"id": 211,
+		"underlying_asset_id": 115,
+		"symbol": ".DESPXUSD",
+		"underlying_asset": "SPX",
+		"exchanges": "null"
+	},
+	{
+		"id": 212,
+		"underlying_asset_id": 117,
+		"symbol": ".DETRUMPUSDT",
+		"underlying_asset": "TRUMP",
+		"exchanges": ["binance", "bybit", "gateio"]
+	},
+	{
+		"id": 213,
+		"underlying_asset_id": 117,
+		"symbol": ".DETRUMPUSD",
+		"underlying_asset": "TRUMP",
+		"exchanges": "null"
+	},
+	{
+		"id": 214,
+		"underlying_asset_id": 118,
+		"symbol": ".DEMELANIAUSDT",
+		"underlying_asset": "MELANIA",
+		"exchanges": ["gateio", "bitget"]
+	},
+	{
+		"id": 215,
+		"underlying_asset_id": 118,
+		"symbol": ".DEMELANIAUSD",
+		"underlying_asset": "MELANIA",
+		"exchanges": "null"
+	},
+	{
+		"id": 216,
+		"underlying_asset_id": 119,
+		"symbol": ".DESWARMSUSDT",
+		"underlying_asset": "SWARMS",
+		"exchanges": ["gateio", "bitget"]
+	},
+	{
+		"id": 217,
+		"underlying_asset_id": 119,
+		"symbol": ".DESWARMSUSD",
+		"underlying_asset": "SWARMS",
+		"exchanges": "null"
+	},
+	{
+		"id": 218,
+		"underlying_asset_id": 120,
+		"symbol": ".DEJUPUSDT",
+		"underlying_asset": "JUP",
+		"exchanges": ["binance", "bybit", "gateio"]
+	},
+	{
+		"id": 219,
+		"underlying_asset_id": 120,
+		"symbol": ".DEJUPUSD",
+		"underlying_asset": "JUP",
+		"exchanges": "null"
+	},
+	{
+		"id": 220,
+		"underlying_asset_id": 121,
+		"symbol": ".DEGRIFFAINUSDT",
+		"underlying_asset": "GRIFFAIN",
+		"exchanges": ["gateio", "bitget"]
+	},
+	{
+		"id": 221,
+		"underlying_asset_id": 121,
+		"symbol": ".DEGRIFFAINUSD",
+		"underlying_asset": "GRIFFAIN",
+		"exchanges": "null"
+	},
+	{
+		"id": 222,
+		"underlying_asset_id": 122,
+		"symbol": ".DESUSDT",
+		"underlying_asset": "S",
+		"exchanges": ["binance", "bybit", "gateio"]
+	},
+	{
+		"id": 223,
+		"underlying_asset_id": 122,
+		"symbol": ".DESUSD",
+		"underlying_asset": "S",
+		"exchanges": "null"
+	},
+	{
+		"id": 224,
+		"underlying_asset_id": 124,
+		"symbol": ".DECOOKIEUSDT",
+		"underlying_asset": "COOKIE",
+		"exchanges": ["binance", "bybit", "gateio"]
+	},
+	{
+		"id": 225,
+		"underlying_asset_id": 124,
+		"symbol": ".DECOOKIEUSD",
+		"underlying_asset": "COOKIE",
+		"exchanges": "null"
+	},
+	{
+		"id": 226,
+		"underlying_asset_id": 125,
+		"symbol": ".DEVANAUSDT",
+		"underlying_asset": "VANA",
+		"exchanges": ["binance", "bybit", "gateio"]
+	},
+	{
+		"id": 227,
+		"underlying_asset_id": 125,
+		"symbol": ".DEVANAUSD",
+		"underlying_asset": "VANA",
+		"exchanges": "null"
+	},
+	{
+		"id": 228,
+		"underlying_asset_id": 126,
+		"symbol": ".DESOLVUSDT",
+		"underlying_asset": "SOLV",
+		"exchanges": ["binance", "bybit", "bitget"]
+	},
+	{
+		"id": 229,
+		"underlying_asset_id": 126,
+		"symbol": ".DESOLVUSD",
+		"underlying_asset": "SOLV",
+		"exchanges": "null"
+	},
+	{
+		"id": 230,
+		"underlying_asset_id": 123,
+		"symbol": ".DEAVAAIUSDT",
+		"underlying_asset": "AVAAI",
+		"exchanges": ["gateio", "bitget"]
+	},
+	{
+		"id": 231,
+		"underlying_asset_id": 123,
+		"symbol": ".DEAVAAIUSD",
+		"underlying_asset": "AVAAI",
+		"exchanges": "null"
+	},
+	{
+		"id": 232,
+		"underlying_asset_id": 127,
+		"symbol": ".DEARCUSDT",
+		"underlying_asset": "ARC",
+		"exchanges": ["gateio", "bitget"]
+	},
+	{
+		"id": 233,
+		"underlying_asset_id": 127,
+		"symbol": ".DEARCUSD",
+		"underlying_asset": "ARC",
+		"exchanges": "null"
+	},
+	{
+		"id": 234,
+		"underlying_asset_id": 128,
+		"symbol": ".DEVINEUSDT",
+		"underlying_asset": "VINE",
+		"exchanges": ["okex", "gateio", "bitget"]
+	},
+	{
+		"id": 235,
+		"underlying_asset_id": 128,
+		"symbol": ".DEVINEUSD",
+		"underlying_asset": "VINE",
+		"exchanges": "null"
+	},
+	{
+		"id": 236,
+		"underlying_asset_id": 129,
+		"symbol": ".DEVVVUSDT",
+		"underlying_asset": "VVV",
+		"exchanges": ["gateio", "bybit"]
+	},
+	{
+		"id": 237,
+		"underlying_asset_id": 129,
+		"symbol": ".DEVVVUSD",
+		"underlying_asset": "VVV",
+		"exchanges": "null"
+	},
+	{
+		"id": 238,
+		"underlying_asset_id": 130,
+		"symbol": ".DEBERAUSDT",
+		"underlying_asset": "BERA",
+		"exchanges": ["binance", "bybit", "bitget"]
+	},
+	{
+		"id": 239,
+		"underlying_asset_id": 130,
+		"symbol": ".DEBERAUSD",
+		"underlying_asset": "BERA",
+		"exchanges": "null"
+	},
+	{
+		"id": 240,
+		"underlying_asset_id": 131,
+		"symbol": ".DEIPUSDT",
+		"underlying_asset": "IP",
+		"exchanges": ["gateio", "bitget", "bybit"]
+	},
+	{
+		"id": 241,
+		"underlying_asset_id": 131,
+		"symbol": ".DEIPUSD",
+		"underlying_asset": "IP",
+		"exchanges": "null"
+	},
+	{
+		"id": 242,
+		"underlying_asset_id": 132,
+		"symbol": ".DECAKEUSDT",
+		"underlying_asset": "CAKE",
+		"exchanges": ["binance", "gateio", "bitget"]
+	},
+	{
+		"id": 243,
+		"underlying_asset_id": 132,
+		"symbol": ".DECAKEUSD",
+		"underlying_asset": "CAKE",
+		"exchanges": "null"
+	},
+	{
+		"id": 244,
+		"underlying_asset_id": 133,
+		"symbol": ".DEBAKEUSDT",
+		"underlying_asset": "BAKE",
+		"exchanges": ["binance", "bitget", "gateio"]
+	},
+	{
+		"id": 245,
+		"underlying_asset_id": 133,
+		"symbol": ".DEBAKEUSD",
+		"underlying_asset": "BAKE",
+		"exchanges": "null"
+	},
+	{
+		"id": 246,
+		"underlying_asset_id": 134,
+		"symbol": ".DETSTUSDT",
+		"underlying_asset": "TST",
+		"exchanges": ["binance"]
+	},
+	{
+		"id": 247,
+		"underlying_asset_id": 134,
+		"symbol": ".DETSTUSD",
+		"underlying_asset": "TST",
+		"exchanges": "null"
+	},
+	{
+		"id": 248,
+		"underlying_asset_id": 135,
+		"symbol": ".DEGLMUSDT",
+		"underlying_asset": "GLM",
+		"exchanges": ["binance", "okex", "bitget"]
+	},
+	{
+		"id": 249,
+		"underlying_asset_id": 135,
+		"symbol": ".DEGLMUSD",
+		"underlying_asset": "GLM",
+		"exchanges": "null"
+	},
+	{
+		"id": 250,
+		"underlying_asset_id": 136,
+		"symbol": ".DEPIUSDT",
+		"underlying_asset": "PI",
+		"exchanges": ["okex", "gateio", "bitget"]
+	},
+	{
+		"id": 251,
+		"underlying_asset_id": 136,
+		"symbol": ".DEPIUSD",
+		"underlying_asset": "PI",
+		"exchanges": "null"
+	},
+	{
+		"id": 252,
+		"underlying_asset_id": 137,
+		"symbol": ".DEKAITOUSDT",
+		"underlying_asset": "KAITO",
+		"exchanges": ["binance", "gateio", "bitget"]
+	},
+	{
+		"id": 253,
+		"underlying_asset_id": 137,
+		"symbol": ".DEKAITOUSD",
+		"underlying_asset": "KAITO",
+		"exchanges": "null"
+	},
+	{
+		"id": 254,
+		"underlying_asset_id": 138,
+		"symbol": ".DEAUCTIONUSDT",
+		"underlying_asset": "AUCTION",
+		"exchanges": ["binance", "okex", "gateio"]
+	},
+	{
+		"id": 255,
+		"underlying_asset_id": 138,
+		"symbol": ".DEAUCTIONUSD",
+		"underlying_asset": "AUCTION",
+		"exchanges": "null"
+	},
+	{
+		"id": 256,
+		"underlying_asset_id": 139,
+		"symbol": ".DEREDUSDT",
+		"underlying_asset": "RED",
+		"exchanges": ["binance", "gateio", "bybit"]
+	},
+	{
+		"id": 257,
+		"underlying_asset_id": 139,
+		"symbol": ".DEREDUSD",
+		"underlying_asset": "RED",
+		"exchanges": "null"
+	},
+	{
+		"id": 258,
+		"underlying_asset_id": 140,
+		"symbol": ".DERAREUSDT",
+		"underlying_asset": "RARE",
+		"exchanges": ["binance", "gateio"]
+	},
+	{
+		"id": 259,
+		"underlying_asset_id": 140,
+		"symbol": ".DERAREUSD",
+		"underlying_asset": "RARE",
+		"exchanges": "null"
+	},
+	{
+		"id": 260,
+		"underlying_asset_id": 141,
+		"symbol": ".DELAYERUSDT",
+		"underlying_asset": "LAYER",
+		"exchanges": ["binance", "gateio", "bitget"]
+	},
+	{
+		"id": 261,
+		"underlying_asset_id": 141,
+		"symbol": ".DELAYERUSD",
+		"underlying_asset": "LAYER",
+		"exchanges": "null"
+	},
+	{
+		"id": 262,
+		"underlying_asset_id": 142,
+		"symbol": ".DEBMTUSDT",
+		"underlying_asset": "BMT",
+		"exchanges": ["binance", "bybit", "bitget"]
+	},
+	{
+		"id": 263,
+		"underlying_asset_id": 142,
+		"symbol": ".DEBMTUSD",
+		"underlying_asset": "BMT",
+		"exchanges": "null"
+	},
+	{
+		"id": 264,
+		"underlying_asset_id": 143,
+		"symbol": ".DEMUBARAKUSDT",
+		"underlying_asset": "MUBARAK",
+		"exchanges": ["gateio", "bitget"]
+	},
+	{
+		"id": 265,
+		"underlying_asset_id": 143,
+		"symbol": ".DEMUBARAKUSD",
+		"underlying_asset": "MUBARAK",
+		"exchanges": "null"
+	},
+	{
+		"id": 266,
+		"underlying_asset_id": 144,
+		"symbol": ".DEAPI3USDT",
+		"underlying_asset": "API3",
+		"exchanges": ["binance", "okex", "gateio"]
+	},
+	{
+		"id": 267,
+		"underlying_asset_id": 144,
+		"symbol": ".DEAPI3USD",
+		"underlying_asset": "API3",
+		"exchanges": "null"
+	},
+	{
+		"id": 268,
+		"underlying_asset_id": 145,
+		"symbol": ".DEXUSDT",
+		"underlying_asset": "X",
+		"exchanges": ["okex", "gateio", "bybit"]
+	},
+	{
+		"id": 269,
+		"underlying_asset_id": 146,
+		"symbol": ".DE1000XUSD",
+		"underlying_asset": "1000X",
+		"exchanges": "null"
+	},
+	{
+		"id": 270,
+		"underlying_asset_id": 13,
+		"symbol": ".DEXBTUSDT_LTP",
+		"underlying_asset": "BTC",
+		"exchanges": ["binance", "bybit", "okex"]
+	},
+	{
+		"id": 271,
+		"underlying_asset_id": 12,
+		"symbol": ".DEETHUSDT_LTP",
+		"underlying_asset": "ETH",
+		"exchanges": ["binance", "bybit", "okex"]
+	},
+	{
+		"id": 272,
+		"underlying_asset_id": 19,
+		"symbol": ".DEXRPUSDT_LTP",
+		"underlying_asset": "XRP",
+		"exchanges": ["binance", "bybit", "okex"]
+	},
+	{
+		"id": 273,
+		"underlying_asset_id": 22,
+		"symbol": ".DELTCUSDT_LTP",
+		"underlying_asset": "LTC",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 274,
+		"underlying_asset_id": 24,
+		"symbol": ".DEBNBUSDT_LTP",
+		"underlying_asset": "BNB",
+		"exchanges": ["binance", "gateio"]
+	},
+	{
+		"id": 275,
+		"underlying_asset_id": 21,
+		"symbol": ".DEBCHUSDT_LTP",
+		"underlying_asset": "BCH",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 276,
+		"underlying_asset_id": 32,
+		"symbol": ".DEADAUSDT_LTP",
+		"underlying_asset": "ADA",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 277,
+		"underlying_asset_id": 25,
+		"symbol": ".DELINKUSDT_LTP",
+		"underlying_asset": "LINK",
+		"exchanges": ["binance", "okex"]
+	},
+	{
+		"id": 278,
+		"underlying_asset_id": 151,
+		"symbol": ".DEINITUSDT",
+		"underlying_asset": "INIT",
+		"exchanges": ["binance", "bybit", "bitget"]
+	},
+	{
+		"id": 279,
+		"underlying_asset_id": 151,
+		"symbol": ".DEINITUSD",
+		"underlying_asset": "INIT",
+		"exchanges": "null"
+	},
+	{
+		"id": 280,
+		"underlying_asset_id": 147,
+		"symbol": ".DEDEEPUSDT",
+		"underlying_asset": "DEEP",
+		"exchanges": ["gateio", "bybit"]
+	},
+	{
+		"id": 281,
+		"underlying_asset_id": 147,
+		"symbol": ".DEDEEPUSD",
+		"underlying_asset": "DEEP",
+		"exchanges": "null"
+	},
+	{
+		"id": 282,
+		"underlying_asset_id": 150,
+		"symbol": ".DEMEMEFIUSDT",
+		"underlying_asset": "MEMEFI",
+		"exchanges": ["okex", "gateio", "bitget"]
+	},
+	{
+		"id": 283,
+		"underlying_asset_id": 150,
+		"symbol": ".DEMEMEFIUSD",
+		"underlying_asset": "MEMEFI",
+		"exchanges": "null"
+	},
+	{
+		"id": 284,
+		"underlying_asset_id": 148,
+		"symbol": ".DESIGNUSDT",
+		"underlying_asset": "SIGN",
+		"exchanges": ["binance", "gateio", "bitget"]
+	},
+	{
+		"id": 285,
+		"underlying_asset_id": 148,
+		"symbol": ".DESIGNUSD",
+		"underlying_asset": "SIGN",
+		"exchanges": "null"
+	},
+	{
+		"id": 286,
+		"underlying_asset_id": 149,
+		"symbol": ".DEWCTUSDT",
+		"underlying_asset": "WCT",
+		"exchanges": ["binance", "okex", "bitget"]
+	},
+	{
+		"id": 287,
+		"underlying_asset_id": 149,
+		"symbol": ".DEWCTUSD",
+		"underlying_asset": "WCT",
+		"exchanges": "null"
+	},
+	{
+		"id": 288,
+		"underlying_asset_id": 152,
+		"symbol": ".DEHYPEUSDT",
+		"underlying_asset": "HYPE",
+		"exchanges": ["gateio", "bitget"]
+	},
+	{
+		"id": 289,
+		"underlying_asset_id": 152,
+		"symbol": ".DEHYPEUSD",
+		"underlying_asset": "HYPE",
+		"exchanges": "null"
+	},
+	{
+		"id": 290,
+		"underlying_asset_id": 153,
+		"symbol": ".DEMASKUSDT",
+		"underlying_asset": "MASK",
+		"exchanges": ["binance", "gateio", "okex"]
+	},
+	{
+		"id": 291,
+		"underlying_asset_id": 153,
+		"symbol": ".DEMASKUSD",
+		"underlying_asset": "MASK",
+		"exchanges": "null"
+	},
+	{
+		"id": 292,
+		"underlying_asset_id": 155,
+		"symbol": ".DEMEUSDT",
+		"underlying_asset": "ME",
+		"exchanges": ["binance", "bitget", "okex"]
+	},
+	{
+		"id": 293,
+		"underlying_asset_id": 155,
+		"symbol": ".DEMEUSD",
+		"underlying_asset": "ME",
+		"exchanges": "null"
+	},
+	{
+		"id": 294,
+		"underlying_asset_id": 154,
+		"symbol": ".DESOPHUSDT",
+		"underlying_asset": "SOPH",
+		"exchanges": ["binance", "bitget", "okex"]
+	},
+	{
+		"id": 295,
+		"underlying_asset_id": 154,
+		"symbol": ".DESOPHUSD",
+		"underlying_asset": "SOPH",
+		"exchanges": "null"
+	},
+	{
+		"id": 296,
+		"underlying_asset_id": 156,
+		"symbol": ".DEBIDUSDT",
+		"underlying_asset": "BID",
+		"exchanges": ["gateio"]
+	},
+	{
+		"id": 297,
+		"underlying_asset_id": 156,
+		"symbol": ".DEBIDUSD",
+		"underlying_asset": "BID",
+		"exchanges": "null"
+	}
+]
