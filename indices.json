@@ -4,1938 +4,2215 @@
 		"underlying_asset_id": 13,
 		"symbol": ".DEXBTUSDT",
 		"underlying_asset": "BTC",
-		"exchanges": ["binance", "bybit", "okex"]
+		"exchanges": ["binance", "bybit", "okex"],
+		"read_as": "BTC / USDT"
 	},
 	{
 		"id": 13,
 		"underlying_asset_id": 15,
 		"symbol": ".DEUSDTUSD",
 		"underlying_asset": "null",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "USDT / USD"
 	},
 	{
 		"id": 14,
 		"underlying_asset_id": 13,
 		"symbol": ".DEXBTUSD",
 		"underlying_asset": "BTC",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "BTC / USD"
 	},
 	{
 		"id": 15,
 		"underlying_asset_id": 12,
 		"symbol": ".DEETHUSDT",
 		"underlying_asset": "ETH",
-		"exchanges": ["binance", "bybit", "okex"]
+		"exchanges": ["binance", "bybit", "okex"],
+		"read_as": "ETH / USDT"
 	},
 	{
 		"id": 17,
 		"underlying_asset_id": 12,
 		"symbol": ".DEETHUSD",
 		"underlying_asset": "ETH",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "ETH / USD"
 	},
 	{
 		"id": 18,
 		"underlying_asset_id": 16,
 		"symbol": ".DEDOGEUSDT",
 		"underlying_asset": "DOGE",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "DOGE / USDT"
 	},
 	{
 		"id": 19,
 		"underlying_asset_id": 17,
 		"symbol": ".DESOLUSDT",
 		"underlying_asset": "SOL",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "SOL / USDT"
 	},
 	{
 		"id": 20,
 		"underlying_asset_id": 18,
 		"symbol": ".DEAVAXUSDT",
 		"underlying_asset": "AVAX",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "AVAX / USDT"
 	},
 	{
 		"id": 21,
 		"underlying_asset_id": 19,
 		"symbol": ".DEXRPUSDT",
 		"underlying_asset": "XRP",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "XRP / USDT"
 	},
 	{
 		"id": 23,
 		"underlying_asset_id": 21,
 		"symbol": ".DEBCHUSDT",
 		"underlying_asset": "BCH",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "BCH / USDT"
 	},
 	{
 		"id": 24,
 		"underlying_asset_id": 22,
 		"symbol": ".DELTCUSDT",
 		"underlying_asset": "LTC",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "LTC / USDT"
 	},
 	{
 		"id": 26,
 		"underlying_asset_id": 24,
 		"symbol": ".DEBNBUSDT",
 		"underlying_asset": "BNB",
-		"exchanges": ["binance", "gateio"]
+		"exchanges": ["binance", "gateio"],
+		"read_as": "BNB / USDT"
 	},
 	{
 		"id": 27,
 		"underlying_asset_id": 25,
 		"symbol": ".DELINKUSDT",
 		"underlying_asset": "LINK",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "LINK / USDT"
 	},
 	{
 		"id": 28,
 		"underlying_asset_id": 16,
 		"symbol": ".DEDOGEUSD",
 		"underlying_asset": "DOGE",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "DOGE / USD"
 	},
 	{
 		"id": 29,
 		"underlying_asset_id": 17,
 		"symbol": ".DESOLUSD",
 		"underlying_asset": "SOL",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "SOL / USD"
 	},
 	{
 		"id": 30,
 		"underlying_asset_id": 18,
 		"symbol": ".DEAVAXUSD",
 		"underlying_asset": "AVAX",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "AVAX / USD"
 	},
 	{
 		"id": 31,
 		"underlying_asset_id": 19,
 		"symbol": ".DEXRPUSD",
 		"underlying_asset": "XRP",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "XRP / USD"
 	},
 	{
 		"id": 33,
 		"underlying_asset_id": 21,
 		"symbol": ".DEBCHUSD",
 		"underlying_asset": "BCH",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "BCH / USD"
 	},
 	{
 		"id": 34,
 		"underlying_asset_id": 22,
 		"symbol": ".DELTCUSD",
 		"underlying_asset": "LTC",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "LTC / USD"
 	},
 	{
 		"id": 36,
 		"underlying_asset_id": 24,
 		"symbol": ".DEBNBUSD",
 		"underlying_asset": "BNB",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "BNB / USD"
 	},
 	{
 		"id": 37,
 		"underlying_asset_id": 25,
 		"symbol": ".DELINKUSD",
 		"underlying_asset": "LINK",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "LINK / USD"
 	},
 	{
 		"id": 38,
 		"underlying_asset_id": 28,
 		"symbol": ".DEDOTUSDT",
 		"underlying_asset": "DOT",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "DOT / USDT"
 	},
 	{
 		"id": 39,
 		"underlying_asset_id": 28,
 		"symbol": ".DEDOTUSD",
 		"underlying_asset": "DOT",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "DOT / USD"
 	},
 	{
 		"id": 40,
 		"underlying_asset_id": 26,
 		"symbol": ".DEWIFUSDT",
 		"underlying_asset": "WIF",
-		"exchanges": ["binance", "bybit", "gateio"]
+		"exchanges": ["binance", "bybit", "gateio"],
+		"read_as": "WIF / USDT"
 	},
 	{
 		"id": 41,
 		"underlying_asset_id": 26,
 		"symbol": ".DEWIFUSD",
 		"underlying_asset": "WIF",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "WIF / USD"
 	},
 	{
 		"id": 42,
 		"underlying_asset_id": 27,
 		"symbol": ".DEUNIUSDT",
 		"underlying_asset": "UNI",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "UNI / USDT"
 	},
 	{
 		"id": 43,
 		"underlying_asset_id": 27,
 		"symbol": ".DEUNIUSD",
 		"underlying_asset": "UNI",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "UNI / USD"
 	},
 	{
 		"id": 44,
 		"underlying_asset_id": 29,
 		"symbol": ".DESHIBUSDT",
 		"underlying_asset": "SHIB",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "SHIB / USDT"
 	},
 	{
 		"id": 45,
 		"underlying_asset_id": 30,
 		"symbol": ".DEBONKUSDT",
 		"underlying_asset": "BONK",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "BONK / USDT"
 	},
 	{
 		"id": 46,
 		"underlying_asset_id": 29,
 		"symbol": ".DESHIBUSD",
 		"underlying_asset": "SHIB",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "SHIB / USD"
 	},
 	{
 		"id": 47,
 		"underlying_asset_id": 30,
 		"symbol": ".DEBONKUSD",
 		"underlying_asset": "BONK",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "BONK / USD"
 	},
 	{
 		"id": 48,
 		"underlying_asset_id": 31,
 		"symbol": ".DEATOMUSDT",
 		"underlying_asset": "ATOM",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "ATOM / USDT"
 	},
 	{
 		"id": 49,
 		"underlying_asset_id": 32,
 		"symbol": ".DEADAUSDT",
 		"underlying_asset": "ADA",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "ADA / USDT"
 	},
 	{
 		"id": 50,
 		"underlying_asset_id": 33,
 		"symbol": ".DENEARUSDT",
 		"underlying_asset": "NEAR",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "NEAR / USDT"
 	},
 	{
 		"id": 51,
 		"underlying_asset_id": 34,
 		"symbol": ".DEALGOUSDT",
 		"underlying_asset": "ALGO",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "ALGO / USDT"
 	},
 	{
 		"id": 52,
 		"underlying_asset_id": 35,
 		"symbol": ".DEINJUSDT",
 		"underlying_asset": "INJ",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "INJ / USDT"
 	},
 	{
 		"id": 53,
 		"underlying_asset_id": 31,
 		"symbol": ".DEATOMUSD",
 		"underlying_asset": "ATOM",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "ATOM / USD"
 	},
 	{
 		"id": 54,
 		"underlying_asset_id": 32,
 		"symbol": ".DEADAUSD",
 		"underlying_asset": "ADA",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "ADA / USD"
 	},
 	{
 		"id": 55,
 		"underlying_asset_id": 33,
 		"symbol": ".DENEARUSD",
 		"underlying_asset": "NEAR",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "NEAR / USD"
 	},
 	{
 		"id": 56,
 		"underlying_asset_id": 34,
 		"symbol": ".DEALGOUSD",
 		"underlying_asset": "ALGO",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "ALGO / USD"
 	},
 	{
 		"id": 57,
 		"underlying_asset_id": 35,
 		"symbol": ".DEINJUSD",
 		"underlying_asset": "INJ",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "INJ / USD"
 	},
 	{
 		"id": 58,
 		"underlying_asset_id": 36,
 		"symbol": ".DEWLDUSDT",
 		"underlying_asset": "WLD",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "WLD / USDT"
 	},
 	{
 		"id": 60,
 		"underlying_asset_id": 38,
 		"symbol": ".DESUIUSDT",
 		"underlying_asset": "SUI",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "SUI / USDT"
 	},
 	{
 		"id": 61,
 		"underlying_asset_id": 39,
 		"symbol": ".DESEIUSDT",
 		"underlying_asset": "SEI",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "SEI / USDT"
 	},
 	{
 		"id": 62,
 		"underlying_asset_id": 40,
 		"symbol": ".DETIAUSDT",
 		"underlying_asset": "TIA",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "TIA / USDT"
 	},
 	{
 		"id": 63,
 		"underlying_asset_id": 41,
 		"symbol": ".DEARBUSDT",
 		"underlying_asset": "ARB",
-		"exchanges": ["binance", "bybit", "okex"]
+		"exchanges": ["binance", "bybit", "okex"],
+		"read_as": "ARB / USDT"
 	},
 	{
 		"id": 64,
 		"underlying_asset_id": 36,
 		"symbol": ".DEWLDUSD",
 		"underlying_asset": "WLD",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "WLD / USD"
 	},
 	{
 		"id": 66,
 		"underlying_asset_id": 38,
 		"symbol": ".DESUIUSD",
 		"underlying_asset": "SUI",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "SUI / USD"
 	},
 	{
 		"id": 67,
 		"underlying_asset_id": 39,
 		"symbol": ".DESEIUSD",
 		"underlying_asset": "SEI",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "SEI / USD"
 	},
 	{
 		"id": 68,
 		"underlying_asset_id": 40,
 		"symbol": ".DETIAUSD",
 		"underlying_asset": "TIA",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "TIA / USD"
 	},
 	{
 		"id": 69,
 		"underlying_asset_id": 41,
 		"symbol": ".DEARBUSD",
 		"underlying_asset": "ARB",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "ARB / USD"
 	},
 	{
 		"id": 70,
 		"underlying_asset_id": 42,
 		"symbol": ".DEPEPEUSDT",
 		"underlying_asset": "PEPE",
-		"exchanges": ["binance", "okex", "bybit"]
+		"exchanges": ["binance", "okex", "bybit"],
+		"read_as": "PEPE / USDT"
 	},
 	{
 		"id": 71,
 		"underlying_asset_id": 42,
 		"symbol": ".DEPEPEUSD",
 		"underlying_asset": "PEPE",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "PEPE / USD"
 	},
 	{
 		"id": 72,
 		"underlying_asset_id": 43,
 		"symbol": ".DEFLOKIUSDT",
 		"underlying_asset": "FLOKI",
-		"exchanges": ["binance", "okex", "bybit"]
+		"exchanges": ["binance", "okex", "bybit"],
+		"read_as": "FLOKI / USDT"
 	},
 	{
 		"id": 73,
 		"underlying_asset_id": 43,
 		"symbol": ".DEFLOKIUSD",
 		"underlying_asset": "FLOKI",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "FLOKI / USD"
 	},
 	{
 		"id": 74,
 		"underlying_asset_id": 44,
 		"symbol": ".DEMEMEUSDT",
 		"underlying_asset": "MEME",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "MEME / USDT"
 	},
 	{
 		"id": 75,
 		"underlying_asset_id": 44,
 		"symbol": ".DEMEMEUSD",
 		"underlying_asset": "MEME",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "MEME / USD"
 	},
 	{
 		"id": 76,
 		"underlying_asset_id": 45,
 		"symbol": ".DEORDIUSDT",
 		"underlying_asset": "ORDI",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "ORDI / USDT"
 	},
 	{
 		"id": 77,
 		"underlying_asset_id": 45,
 		"symbol": ".DEORDIUSD",
 		"underlying_asset": "ORDI",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "ORDI / USD"
 	},
 	{
 		"id": 78,
 		"underlying_asset_id": 46,
 		"symbol": ".DEHBARUSDT",
 		"underlying_asset": "HBAR",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "HBAR / USDT"
 	},
 	{
 		"id": 79,
 		"underlying_asset_id": 46,
 		"symbol": ".DEHBARUSD",
 		"underlying_asset": "HBAR",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "HBAR / USD"
 	},
 	{
 		"id": 80,
 		"underlying_asset_id": 47,
 		"symbol": ".DEJTOUSDT",
 		"underlying_asset": "JTO",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "JTO / USDT"
 	},
 	{
 		"id": 81,
 		"underlying_asset_id": 47,
 		"symbol": ".DEJTOUSD",
 		"underlying_asset": "JTO",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "JTO / USD"
 	},
 	{
 		"id": 82,
 		"underlying_asset_id": 48,
 		"symbol": ".DEAAVEUSDT",
 		"underlying_asset": "AAVE",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "AAVE / USDT"
 	},
 	{
 		"id": 83,
 		"underlying_asset_id": 48,
 		"symbol": ".DEAAVEUSD",
 		"underlying_asset": "AAVE",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "AAVE / USD"
 	},
 	{
 		"id": 84,
 		"underlying_asset_id": 49,
 		"symbol": ".DEONDOUSDT",
 		"underlying_asset": "ONDO",
-		"exchanges": ["bybit", "gateio"]
+		"exchanges": ["bybit", "gateio"],
+		"read_as": "ONDO / USDT"
 	},
 	{
 		"id": 85,
 		"underlying_asset_id": 49,
 		"symbol": ".DEONDOUSD",
 		"underlying_asset": "ONDO",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "ONDO / USD"
 	},
 	{
 		"id": 86,
 		"underlying_asset_id": 50,
 		"symbol": ".DEPENDLEUSDT",
 		"underlying_asset": "PENDLE",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "PENDLE / USDT"
 	},
 	{
 		"id": 87,
 		"underlying_asset_id": 50,
 		"symbol": ".DEPENDLEUSD",
 		"underlying_asset": "PENDLE",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "PENDLE / USD"
 	},
 	{
 		"id": 88,
 		"underlying_asset_id": 51,
 		"symbol": ".DEENAUSDT",
 		"underlying_asset": "ENA",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "ENA / USDT"
 	},
 	{
 		"id": 89,
 		"underlying_asset_id": 51,
 		"symbol": ".DEENAUSD",
 		"underlying_asset": "ENA",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "ENA / USD"
 	},
 	{
 		"id": 90,
 		"underlying_asset_id": 52,
 		"symbol": ".DEOPUSDT",
 		"underlying_asset": "OP",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "OP / USDT"
 	},
 	{
 		"id": 91,
 		"underlying_asset_id": 52,
 		"symbol": ".DEOPUSD",
 		"underlying_asset": "OP",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "OP / USD"
 	},
 	{
 		"id": 92,
 		"underlying_asset_id": 53,
 		"symbol": ".DETRBUSDT",
 		"underlying_asset": "TRB",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "TRB / USDT"
 	},
 	{
 		"id": 93,
 		"underlying_asset_id": 53,
 		"symbol": ".DETRBUSD",
 		"underlying_asset": "TRB",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "TRB / USD"
 	},
 	{
 		"id": 94,
 		"underlying_asset_id": 54,
 		"symbol": ".DEETCUSDT",
 		"underlying_asset": "ETC",
-		"exchanges": ["okex", "binance"]
+		"exchanges": ["okex", "binance"],
+		"read_as": "ETC / USDT"
 	},
 	{
 		"id": 95,
 		"underlying_asset_id": 54,
 		"symbol": ".DEETCUSD",
 		"underlying_asset": "ETC",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "ETC / USD"
 	},
 	{
 		"id": 96,
 		"underlying_asset_id": 55,
 		"symbol": ".DELDOUSDT",
 		"underlying_asset": "LDO",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "LDO / USDT"
 	},
 	{
 		"id": 97,
 		"underlying_asset_id": 55,
 		"symbol": ".DELDOUSD",
 		"underlying_asset": "LDO",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "LDO / USD"
 	},
 	{
 		"id": 98,
 		"underlying_asset_id": 56,
 		"symbol": ".DEFILUSDT",
 		"underlying_asset": "FIL",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "FIL / USDT"
 	},
 	{
 		"id": 99,
 		"underlying_asset_id": 56,
 		"symbol": ".DEFILUSD",
 		"underlying_asset": "FIL",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "FIL / USD"
 	},
 	{
 		"id": 100,
 		"underlying_asset_id": 58,
 		"symbol": ".DETRXUSDT",
 		"underlying_asset": "TRX",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "TRX / USDT"
 	},
 	{
 		"id": 101,
 		"underlying_asset_id": 58,
 		"symbol": ".DETRXUSD",
 		"underlying_asset": "TRX",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "TRX / USD"
 	},
 	{
 		"id": 102,
 		"underlying_asset_id": 59,
 		"symbol": ".DEALTUSDT",
 		"underlying_asset": "ALT",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "ALT / USDT"
 	},
 	{
 		"id": 103,
 		"underlying_asset_id": 59,
 		"symbol": ".DEALTUSD",
 		"underlying_asset": "ALT",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "ALT / USD"
 	},
 	{
 		"id": 104,
 		"underlying_asset_id": 60,
 		"symbol": ".DESTXUSDT",
 		"underlying_asset": "STX",
-		"exchanges": ["binance", "gateio"]
+		"exchanges": ["binance", "gateio"],
+		"read_as": "STX / USDT"
 	},
 	{
 		"id": 105,
 		"underlying_asset_id": 60,
 		"symbol": ".DESTXUSD",
 		"underlying_asset": "STX",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "STX / USD"
 	},
 	{
 		"id": 106,
 		"underlying_asset_id": 61,
 		"symbol": ".DEAPTUSDT",
 		"underlying_asset": "APT",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "APT / USDT"
 	},
 	{
 		"id": 107,
 		"underlying_asset_id": 61,
 		"symbol": ".DEAPTUSD",
 		"underlying_asset": "APT",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "APT / USD"
 	},
 	{
 		"id": 108,
 		"underlying_asset_id": 62,
 		"symbol": ".DEXAIUSDT",
 		"underlying_asset": "XAI",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "XAI / USDT"
 	},
 	{
 		"id": 109,
 		"underlying_asset_id": 62,
 		"symbol": ".DEXAIUSD",
 		"underlying_asset": "XAI",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "XAI / USD"
 	},
 	{
 		"id": 110,
 		"underlying_asset_id": 63,
 		"symbol": ".DERUNEUSDT",
 		"underlying_asset": "RUNE",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "RUNE / USDT"
 	},
 	{
 		"id": 111,
 		"underlying_asset_id": 63,
 		"symbol": ".DERUNEUSD",
 		"underlying_asset": "RUNE",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "RUNE / USD"
 	},
 	{
 		"id": 112,
 		"underlying_asset_id": 64,
 		"symbol": ".DEARUSDT",
 		"underlying_asset": "AR",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "AR / USDT"
 	},
 	{
 		"id": 113,
 		"underlying_asset_id": 64,
 		"symbol": ".DEARUSD",
 		"underlying_asset": "AR",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "AR / USD"
 	},
 	{
 		"id": 114,
 		"underlying_asset_id": 65,
 		"symbol": ".DEMKRUSDT",
 		"underlying_asset": "MKR",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "MKR / USDT"
 	},
 	{
 		"id": 115,
 		"underlying_asset_id": 65,
 		"symbol": ".DEMKRUSD",
 		"underlying_asset": "MKR",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "MKR / USD"
 	},
 	{
 		"id": 116,
 		"underlying_asset_id": 66,
 		"symbol": ".DESUSHIUSDT",
 		"underlying_asset": "SUSHI",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "SUSHI / USDT"
 	},
 	{
 		"id": 117,
 		"underlying_asset_id": 66,
 		"symbol": ".DESUSHIUSD",
 		"underlying_asset": "SUSHI",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "SUSHI / USD"
 	},
 	{
 		"id": 118,
 		"underlying_asset_id": 67,
 		"symbol": ".DEDYDXUSDT",
 		"underlying_asset": "DYDX",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "DYDX / USDT"
 	},
 	{
 		"id": 119,
 		"underlying_asset_id": 67,
 		"symbol": ".DEDYDXUSD",
 		"underlying_asset": "DYDX",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "DYDX / USD"
 	},
 	{
 		"id": 120,
 		"underlying_asset_id": 68,
 		"symbol": ".DEPEOPLEUSDT",
 		"underlying_asset": "PEOPLE",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "PEOPLE / USDT"
 	},
 	{
 		"id": 121,
 		"underlying_asset_id": 68,
 		"symbol": ".DEPEOPLEUSD",
 		"underlying_asset": "PEOPLE",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "PEOPLE / USD"
 	},
 	{
 		"id": 122,
 		"underlying_asset_id": 69,
 		"symbol": ".DEETHFIUSDT",
 		"underlying_asset": "ETHFI",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "ETHFI / USDT"
 	},
 	{
 		"id": 123,
 		"underlying_asset_id": 69,
 		"symbol": ".DEETHFIUSD",
 		"underlying_asset": "ETHFI",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "ETHFI / USD"
 	},
 	{
 		"id": 124,
 		"underlying_asset_id": 70,
 		"symbol": ".DENOTUSDT",
 		"underlying_asset": "NOT",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "NOT / USDT"
 	},
 	{
 		"id": 125,
 		"underlying_asset_id": 70,
 		"symbol": ".DENOTUSD",
 		"underlying_asset": "NOT",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "NOT / USD"
 	},
 	{
 		"id": 126,
 		"underlying_asset_id": 71,
 		"symbol": ".DEBBUSDT",
 		"underlying_asset": "BB",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "BB / USDT"
 	},
 	{
 		"id": 127,
 		"underlying_asset_id": 71,
 		"symbol": ".DEBBUSD",
 		"underlying_asset": "BB",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "BB / USD"
 	},
 	{
 		"id": 128,
 		"underlying_asset_id": 72,
 		"symbol": ".DEZROUSDT",
 		"underlying_asset": "ZRO",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "ZRO / USDT"
 	},
 	{
 		"id": 129,
 		"underlying_asset_id": 72,
 		"symbol": ".DEZROUSD",
 		"underlying_asset": "ZRO",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "ZRO / USD"
 	},
 	{
 		"id": 130,
 		"underlying_asset_id": 73,
 		"symbol": ".DEZKUSDT",
 		"underlying_asset": "ZK",
-		"exchanges": ["binance", "gateio", "bybit"]
+		"exchanges": ["binance", "gateio", "bybit"],
+		"read_as": "ZK / USDT"
 	},
 	{
 		"id": 131,
 		"underlying_asset_id": 73,
 		"symbol": ".DEZKUSD",
 		"underlying_asset": "ZK",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "ZK / USD"
 	},
 	{
 		"id": 132,
 		"underlying_asset_id": 74,
 		"symbol": ".DEIOUSDT",
 		"underlying_asset": "IO",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "IO / USDT"
 	},
 	{
 		"id": 133,
 		"underlying_asset_id": 74,
 		"symbol": ".DEIOUSD",
 		"underlying_asset": "IO",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "IO / USD"
 	},
 	{
 		"id": 134,
 		"underlying_asset_id": 75,
 		"symbol": ".DELISTAUSDT",
 		"underlying_asset": "LISTA",
-		"exchanges": ["binance", "gateio"]
+		"exchanges": ["binance", "gateio"],
+		"read_as": "LISTA / USDT"
 	},
 	{
 		"id": 135,
 		"underlying_asset_id": 75,
 		"symbol": ".DELISTAUSD",
 		"underlying_asset": "LISTA",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "LISTA / USD"
 	},
 	{
 		"id": 136,
 		"underlying_asset_id": 76,
 		"symbol": ".DETAOUSDT",
 		"underlying_asset": "TAO",
-		"exchanges": ["binance", "gateio"]
+		"exchanges": ["binance", "gateio"],
+		"read_as": "TAO / USDT"
 	},
 	{
 		"id": 137,
 		"underlying_asset_id": 76,
 		"symbol": ".DETAOUSD",
 		"underlying_asset": "TAO",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "TAO / USD"
 	},
 	{
 		"id": 138,
 		"underlying_asset_id": 77,
 		"symbol": ".DEOMNIUSDT",
 		"underlying_asset": "OMNI",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "OMNI / USDT"
 	},
 	{
 		"id": 139,
 		"underlying_asset_id": 77,
 		"symbol": ".DEOMNIUSD",
 		"underlying_asset": "OMNI",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "OMNI / USD"
 	},
 	{
 		"id": 140,
 		"underlying_asset_id": 78,
 		"symbol": ".DEBLURUSDT",
 		"underlying_asset": "BLUR",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "BLUR / USDT"
 	},
 	{
 		"id": 141,
 		"underlying_asset_id": 78,
 		"symbol": ".DEBLURUSD",
 		"underlying_asset": "BLUR",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "BLUR / USD"
 	},
 	{
 		"id": 142,
 		"underlying_asset_id": 79,
 		"symbol": ".DEGALAUSDT",
 		"underlying_asset": "GALA",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "GALA / USDT"
 	},
 	{
 		"id": 143,
 		"underlying_asset_id": 79,
 		"symbol": ".DEGALAUSD",
 		"underlying_asset": "GALA",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "GALA / USD"
 	},
 	{
 		"id": 144,
 		"underlying_asset_id": 80,
 		"symbol": ".DEMANTAUSDT",
 		"underlying_asset": "MANTA",
-		"exchanges": ["binance", "gateio"]
+		"exchanges": ["binance", "gateio"],
+		"read_as": "MANTA / USDT"
 	},
 	{
 		"id": 145,
 		"underlying_asset_id": 80,
 		"symbol": ".DEMANTAUSD",
 		"underlying_asset": "MANTA",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "MANTA / USD"
 	},
 	{
 		"id": 146,
 		"underlying_asset_id": 81,
 		"symbol": ".DEEIGENUSDT",
 		"underlying_asset": "EIGEN",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "EIGEN / USDT"
 	},
 	{
 		"id": 147,
 		"underlying_asset_id": 81,
 		"symbol": ".DEEIGENUSD",
 		"underlying_asset": "EIGEN",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "EIGEN / USD"
 	},
 	{
 		"id": 148,
 		"underlying_asset_id": 82,
 		"symbol": ".DEPOLUSDT",
 		"underlying_asset": "POL",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "POL / USDT"
 	},
 	{
 		"id": 149,
 		"underlying_asset_id": 82,
 		"symbol": ".DEPOLUSD",
 		"underlying_asset": "POL",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "POL / USD"
 	},
 	{
 		"id": 150,
 		"underlying_asset_id": 83,
 		"symbol": ".DENEIROUSDT",
 		"underlying_asset": "NEIRO",
-		"exchanges": ["binance"]
+		"exchanges": ["binance"],
+		"read_as": "NEIRO / USDT"
 	},
 	{
 		"id": 151,
 		"underlying_asset_id": 83,
 		"symbol": ".DENEIROUSD",
 		"underlying_asset": "NEIRO",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "NEIRO / USD"
 	},
 	{
 		"id": 152,
 		"underlying_asset_id": 84,
 		"symbol": ".DESAGAUSDT",
 		"underlying_asset": "SAGA",
-		"exchanges": ["binance", "gateio"]
+		"exchanges": ["binance", "gateio"],
+		"read_as": "SAGA / USDT"
 	},
 	{
 		"id": 153,
 		"underlying_asset_id": 84,
 		"symbol": ".DESAGAUSD",
 		"underlying_asset": "SAGA",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "SAGA / USD"
 	},
 	{
 		"id": 154,
 		"underlying_asset_id": 85,
 		"symbol": ".DEPNUTUSDT",
 		"underlying_asset": "PNUT",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "PNUT / USDT"
 	},
 	{
 		"id": 155,
 		"underlying_asset_id": 85,
 		"symbol": ".DEPNUTUSD",
 		"underlying_asset": "PNUT",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "PNUT / USD"
 	},
 	{
 		"id": 156,
 		"underlying_asset_id": 86,
 		"symbol": ".DEACTUSDT",
 		"underlying_asset": "ACT",
-		"exchanges": ["binance", "okex", "bitget"]
+		"exchanges": ["binance", "okex", "bitget"],
+		"read_as": "ACT / USDT"
 	},
 	{
 		"id": 157,
 		"underlying_asset_id": 86,
 		"symbol": ".DEACTUSD",
 		"underlying_asset": "ACT",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "ACT / USD"
 	},
 	{
 		"id": 158,
 		"underlying_asset_id": 87,
 		"symbol": ".DEPOPCATUSDT",
 		"underlying_asset": "POPCAT",
-		"exchanges": ["bybit", "gateio"]
+		"exchanges": ["bybit", "gateio"],
+		"read_as": "POPCAT / USDT"
 	},
 	{
 		"id": 159,
 		"underlying_asset_id": 87,
 		"symbol": ".DEPOPCATUSD",
 		"underlying_asset": "POPCAT",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "POPCAT / USD"
 	},
 	{
 		"id": 160,
 		"underlying_asset_id": 90,
 		"symbol": ".DEMANAUSDT",
 		"underlying_asset": "MANA",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "MANA / USDT"
 	},
 	{
 		"id": 161,
 		"underlying_asset_id": 90,
 		"symbol": ".DEMANAUSD",
 		"underlying_asset": "MANA",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "MANA / USD"
 	},
 	{
 		"id": 162,
 		"underlying_asset_id": 89,
 		"symbol": ".DESANDUSDT",
 		"underlying_asset": "SAND",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "SAND / USDT"
 	},
 	{
 		"id": 163,
 		"underlying_asset_id": 89,
 		"symbol": ".DESANDUSD",
 		"underlying_asset": "SAND",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "SAND / USD"
 	},
 	{
 		"id": 164,
 		"underlying_asset_id": 88,
 		"symbol": ".DEXLMUSDT",
 		"underlying_asset": "XLM",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "XLM / USDT"
 	},
 	{
 		"id": 165,
 		"underlying_asset_id": 88,
 		"symbol": ".DEXLMUSD",
 		"underlying_asset": "XLM",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "XLM / USD"
 	},
 	{
 		"id": 166,
 		"underlying_asset_id": 91,
 		"symbol": ".DEKSMUSDT",
 		"underlying_asset": "KSM",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "KSM / USDT"
 	},
 	{
 		"id": 167,
 		"underlying_asset_id": 91,
 		"symbol": ".DEKSMUSD",
 		"underlying_asset": "KSM",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "KSM / USD"
 	},
 	{
 		"id": 168,
 		"underlying_asset_id": 92,
 		"symbol": ".DEGOATUSDT",
 		"underlying_asset": "GOAT",
-		"exchanges": ["bybit", "gateio"]
+		"exchanges": ["bybit", "gateio"],
+		"read_as": "GOAT / USDT"
 	},
 	{
 		"id": 169,
 		"underlying_asset_id": 92,
 		"symbol": ".DEGOATUSD",
 		"underlying_asset": "GOAT",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "GOAT / USD"
 	},
 	{
 		"id": 170,
 		"underlying_asset_id": 93,
 		"symbol": ".DERSRUSDT",
 		"underlying_asset": "RSR",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "RSR / USDT"
 	},
 	{
 		"id": 171,
 		"underlying_asset_id": 93,
 		"symbol": ".DERSRUSD",
 		"underlying_asset": "RSR",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "RSR / USD"
 	},
 	{
 		"id": 174,
 		"underlying_asset_id": 95,
 		"symbol": ".DEIOTAUSDT",
 		"underlying_asset": "IOTA",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "IOTA / USDT"
 	},
 	{
 		"id": 175,
 		"underlying_asset_id": 95,
 		"symbol": ".DEIOTAUSD",
 		"underlying_asset": "IOTA",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "IOTA / USD"
 	},
 	{
 		"id": 176,
 		"underlying_asset_id": 96,
 		"symbol": ".DEOMUSDT",
 		"underlying_asset": "OM",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "OM / USDT"
 	},
 	{
 		"id": 177,
 		"underlying_asset_id": 96,
 		"symbol": ".DEOMUSD",
 		"underlying_asset": "OM",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "OM / USD"
 	},
 	{
 		"id": 178,
 		"underlying_asset_id": 97,
 		"symbol": ".DEMOODENGUSDT",
 		"underlying_asset": "MOODENG",
-		"exchanges": ["okex", "gateio"]
+		"exchanges": ["okex", "gateio"],
+		"read_as": "MOODENG / USDT"
 	},
 	{
 		"id": 179,
 		"underlying_asset_id": 97,
 		"symbol": ".DEMOODENGUSD",
 		"underlying_asset": "MOODENG",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "MOODENG / USD"
 	},
 	{
 		"id": 180,
 		"underlying_asset_id": 98,
 		"symbol": ".DESUNUSDT",
 		"underlying_asset": "SUN",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "SUN / USDT"
 	},
 	{
 		"id": 181,
 		"underlying_asset_id": 98,
 		"symbol": ".DESUNUSD",
 		"underlying_asset": "SUN",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "SUN / USD"
 	},
 	{
 		"id": 182,
 		"underlying_asset_id": 99,
 		"symbol": ".DEDOGSUSDT",
 		"underlying_asset": "DOGS",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "DOGS / USDT"
 	},
 	{
 		"id": 183,
 		"underlying_asset_id": 99,
 		"symbol": ".DEDOGSUSD",
 		"underlying_asset": "DOGS",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "DOGS / USD"
 	},
 	{
 		"id": 184,
 		"underlying_asset_id": 100,
 		"symbol": ".DEJASMYUSDT",
 		"underlying_asset": "JASMY",
-		"exchanges": ["binance", "bybit"]
+		"exchanges": ["binance", "bybit"],
+		"read_as": "JASMY / USDT"
 	},
 	{
 		"id": 185,
 		"underlying_asset_id": 100,
 		"symbol": ".DEJASMYUSD",
 		"underlying_asset": "JASMY",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "JASMY / USD"
 	},
 	{
 		"id": 186,
 		"underlying_asset_id": 103,
 		"symbol": ".DEBABYDOGEUSDT",
 		"underlying_asset": "BABYDOGE",
-		"exchanges": ["okex", "gateio", "bybit"]
+		"exchanges": ["okex", "gateio", "bybit"],
+		"read_as": "BABYDOGE / USDT"
 	},
 	{
 		"id": 187,
 		"underlying_asset_id": 104,
 		"symbol": ".DE1MBABYDOGEUSD",
 		"underlying_asset": "1MBABYDOGE",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "1MBABYDOGE / USD"
 	},
 	{
 		"id": 188,
 		"underlying_asset_id": 101,
 		"symbol": ".DESATSUSDT",
 		"underlying_asset": "SATS",
-		"exchanges": ["okex", "gateio", "bitget"]
+		"exchanges": ["okex", "gateio", "bitget"],
+		"read_as": "SATS / USDT"
 	},
 	{
 		"id": 189,
 		"underlying_asset_id": 102,
 		"symbol": ".DE1000SATSUSD",
 		"underlying_asset": "1000SATS",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "1000SATS / USD"
 	},
 	{
 		"id": 190,
 		"underlying_asset_id": 105,
 		"symbol": ".DEVIRTUALUSDT",
 		"underlying_asset": "VIRTUAL",
-		"exchanges": ["bybit", "gateio"]
+		"exchanges": ["bybit", "gateio"],
+		"read_as": "VIRTUAL / USDT"
 	},
 	{
 		"id": 191,
 		"underlying_asset_id": 105,
 		"symbol": ".DEVIRTUALUSD",
 		"underlying_asset": "VIRTUAL",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "VIRTUAL / USD"
 	},
 	{
 		"id": 192,
 		"underlying_asset_id": 106,
 		"symbol": ".DEUSUALUSDT",
 		"underlying_asset": "USUAL",
-		"exchanges": ["binance", "gateio"]
+		"exchanges": ["binance", "gateio"],
+		"read_as": "USUAL / USDT"
 	},
 	{
 		"id": 193,
 		"underlying_asset_id": 106,
 		"symbol": ".DEUSUALUSD",
 		"underlying_asset": "USUAL",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "USUAL / USD"
 	},
 	{
 		"id": 194,
 		"underlying_asset_id": 107,
 		"symbol": ".DEFARTCOINUSDT",
 		"underlying_asset": "FARTCOIN",
-		"exchanges": ["gateio", "bitget"]
+		"exchanges": ["gateio", "bitget"],
+		"read_as": "FARTCOIN / USDT"
 	},
 	{
 		"id": 195,
 		"underlying_asset_id": 107,
 		"symbol": ".DEFARTCOINUSD",
 		"underlying_asset": "FARTCOIN",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "FARTCOIN / USD"
 	},
 	{
 		"id": 196,
 		"underlying_asset_id": 108,
 		"symbol": ".DEAI16ZUSDT",
 		"underlying_asset": "AI16Z",
-		"exchanges": ["gateio", "bybit", "bitget"]
+		"exchanges": ["gateio", "bybit", "bitget"],
+		"read_as": "AI16Z / USDT"
 	},
 	{
 		"id": 197,
 		"underlying_asset_id": 108,
 		"symbol": ".DEAI16ZUSD",
 		"underlying_asset": "AI16Z",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "AI16Z / USD"
 	},
 	{
 		"id": 198,
 		"underlying_asset_id": 109,
 		"symbol": ".DEAIXBTUSDT",
 		"underlying_asset": "AIXBT",
-		"exchanges": ["binance", "gateio", "bybit"]
+		"exchanges": ["binance", "gateio", "bybit"],
+		"read_as": "AIXBT / USDT"
 	},
 	{
 		"id": 199,
 		"underlying_asset_id": 109,
 		"symbol": ".DEAIXBTUSD",
 		"underlying_asset": "AIXBT",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "AIXBT / USD"
 	},
 	{
 		"id": 200,
 		"underlying_asset_id": 110,
 		"symbol": ".DEPENGUUSDT",
 		"underlying_asset": "PENGU",
-		"exchanges": ["binance", "okex", "bybit"]
+		"exchanges": ["binance", "okex", "bybit"],
+		"read_as": "PENGU / USDT"
 	},
 	{
 		"id": 201,
 		"underlying_asset_id": 110,
 		"symbol": ".DEPENGUUSD",
 		"underlying_asset": "PENGU",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "PENGU / USD"
 	},
 	{
 		"id": 202,
 		"underlying_asset_id": 111,
 		"symbol": ".DEMOVEUSDT",
 		"underlying_asset": "MOVE",
-		"exchanges": ["binance", "okex", "bybit"]
+		"exchanges": ["binance", "okex", "bybit"],
+		"read_as": "MOVE / USDT"
 	},
 	{
 		"id": 203,
 		"underlying_asset_id": 111,
 		"symbol": ".DEMOVEUSD",
 		"underlying_asset": "MOVE",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "MOVE / USD"
 	},
 	{
 		"id": 204,
 		"underlying_asset_id": 112,
 		"symbol": ".DEBIOUSDT",
 		"underlying_asset": "BIO",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "BIO / USDT"
 	},
 	{
 		"id": 205,
 		"underlying_asset_id": 112,
 		"symbol": ".DEBIOUSD",
 		"underlying_asset": "BIO",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "BIO / USD"
 	},
 	{
 		"id": 206,
 		"underlying_asset_id": 113,
 		"symbol": ".DESONICUSDT",
 		"underlying_asset": "SONIC",
-		"exchanges": ["bybit", "okex"]
+		"exchanges": ["bybit", "okex"],
+		"read_as": "SONIC / USDT"
 	},
 	{
 		"id": 207,
 		"underlying_asset_id": 113,
 		"symbol": ".DESONICUSD",
 		"underlying_asset": "SONIC",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "SONIC / USD"
 	},
 	{
 		"id": 208,
 		"underlying_asset_id": 114,
 		"symbol": ".DEHIVEUSDT",
 		"underlying_asset": "HIVE",
-		"exchanges": ["binance", "gateio"]
+		"exchanges": ["binance", "gateio"],
+		"read_as": "HIVE / USDT"
 	},
 	{
 		"id": 209,
 		"underlying_asset_id": 114,
 		"symbol": ".DEHIVEUSD",
 		"underlying_asset": "HIVE",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "HIVE / USD"
 	},
 	{
 		"id": 210,
 		"underlying_asset_id": 115,
 		"symbol": ".DESPXUSDT",
 		"underlying_asset": "SPX",
-		"exchanges": ["bybit", "gateio"]
+		"exchanges": ["bybit", "gateio"],
+		"read_as": "SPX / USDT"
 	},
 	{
 		"id": 211,
 		"underlying_asset_id": 115,
 		"symbol": ".DESPXUSD",
 		"underlying_asset": "SPX",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "SPX / USD"
 	},
 	{
 		"id": 212,
 		"underlying_asset_id": 117,
 		"symbol": ".DETRUMPUSDT",
 		"underlying_asset": "TRUMP",
-		"exchanges": ["binance", "bybit", "gateio"]
+		"exchanges": ["binance", "bybit", "gateio"],
+		"read_as": "TRUMP / USDT"
 	},
 	{
 		"id": 213,
 		"underlying_asset_id": 117,
 		"symbol": ".DETRUMPUSD",
 		"underlying_asset": "TRUMP",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "TRUMP / USD"
 	},
 	{
 		"id": 214,
 		"underlying_asset_id": 118,
 		"symbol": ".DEMELANIAUSDT",
 		"underlying_asset": "MELANIA",
-		"exchanges": ["gateio", "bitget"]
+		"exchanges": ["gateio", "bitget"],
+		"read_as": "MELANIA / USDT"
 	},
 	{
 		"id": 215,
 		"underlying_asset_id": 118,
 		"symbol": ".DEMELANIAUSD",
 		"underlying_asset": "MELANIA",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "MELANIA / USD"
 	},
 	{
 		"id": 216,
 		"underlying_asset_id": 119,
 		"symbol": ".DESWARMSUSDT",
 		"underlying_asset": "SWARMS",
-		"exchanges": ["gateio", "bitget"]
+		"exchanges": ["gateio", "bitget"],
+		"read_as": "SWARMS / USDT"
 	},
 	{
 		"id": 217,
 		"underlying_asset_id": 119,
 		"symbol": ".DESWARMSUSD",
 		"underlying_asset": "SWARMS",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "SWARMS / USD"
 	},
 	{
 		"id": 218,
 		"underlying_asset_id": 120,
 		"symbol": ".DEJUPUSDT",
 		"underlying_asset": "JUP",
-		"exchanges": ["binance", "bybit", "gateio"]
+		"exchanges": ["binance", "bybit", "gateio"],
+		"read_as": "JUP / USDT"
 	},
 	{
 		"id": 219,
 		"underlying_asset_id": 120,
 		"symbol": ".DEJUPUSD",
 		"underlying_asset": "JUP",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "JUP / USD"
 	},
 	{
 		"id": 220,
 		"underlying_asset_id": 121,
 		"symbol": ".DEGRIFFAINUSDT",
 		"underlying_asset": "GRIFFAIN",
-		"exchanges": ["gateio", "bitget"]
+		"exchanges": ["gateio", "bitget"],
+		"read_as": "GRIFFAIN / USDT"
 	},
 	{
 		"id": 221,
 		"underlying_asset_id": 121,
 		"symbol": ".DEGRIFFAINUSD",
 		"underlying_asset": "GRIFFAIN",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "GRIFFAIN / USD"
 	},
 	{
 		"id": 222,
 		"underlying_asset_id": 122,
 		"symbol": ".DESUSDT",
 		"underlying_asset": "S",
-		"exchanges": ["binance", "bybit", "gateio"]
+		"exchanges": ["binance", "bybit", "gateio"],
+		"read_as": "S / USDT"
 	},
 	{
 		"id": 223,
 		"underlying_asset_id": 122,
 		"symbol": ".DESUSD",
 		"underlying_asset": "S",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "S / USD"
 	},
 	{
 		"id": 224,
 		"underlying_asset_id": 124,
 		"symbol": ".DECOOKIEUSDT",
 		"underlying_asset": "COOKIE",
-		"exchanges": ["binance", "bybit", "gateio"]
+		"exchanges": ["binance", "bybit", "gateio"],
+		"read_as": "COOKIE / USDT"
 	},
 	{
 		"id": 225,
 		"underlying_asset_id": 124,
 		"symbol": ".DECOOKIEUSD",
 		"underlying_asset": "COOKIE",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "COOKIE / USD"
 	},
 	{
 		"id": 226,
 		"underlying_asset_id": 125,
 		"symbol": ".DEVANAUSDT",
 		"underlying_asset": "VANA",
-		"exchanges": ["binance", "bybit", "gateio"]
+		"exchanges": ["binance", "bybit", "gateio"],
+		"read_as": "VANA / USDT"
 	},
 	{
 		"id": 227,
 		"underlying_asset_id": 125,
 		"symbol": ".DEVANAUSD",
 		"underlying_asset": "VANA",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "VANA / USD"
 	},
 	{
 		"id": 228,
 		"underlying_asset_id": 126,
 		"symbol": ".DESOLVUSDT",
 		"underlying_asset": "SOLV",
-		"exchanges": ["binance", "bybit", "bitget"]
+		"exchanges": ["binance", "bybit", "bitget"],
+		"read_as": "SOLV / USDT"
 	},
 	{
 		"id": 229,
 		"underlying_asset_id": 126,
 		"symbol": ".DESOLVUSD",
 		"underlying_asset": "SOLV",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "SOLV / USD"
 	},
 	{
 		"id": 230,
 		"underlying_asset_id": 123,
 		"symbol": ".DEAVAAIUSDT",
 		"underlying_asset": "AVAAI",
-		"exchanges": ["gateio", "bitget"]
+		"exchanges": ["gateio", "bitget"],
+		"read_as": "AVAAI / USDT"
 	},
 	{
 		"id": 231,
 		"underlying_asset_id": 123,
 		"symbol": ".DEAVAAIUSD",
 		"underlying_asset": "AVAAI",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "AVAAI / USD"
 	},
 	{
 		"id": 232,
 		"underlying_asset_id": 127,
 		"symbol": ".DEARCUSDT",
 		"underlying_asset": "ARC",
-		"exchanges": ["gateio", "bitget"]
+		"exchanges": ["gateio", "bitget"],
+		"read_as": "ARC / USDT"
 	},
 	{
 		"id": 233,
 		"underlying_asset_id": 127,
 		"symbol": ".DEARCUSD",
 		"underlying_asset": "ARC",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "ARC / USD"
 	},
 	{
 		"id": 234,
 		"underlying_asset_id": 128,
 		"symbol": ".DEVINEUSDT",
 		"underlying_asset": "VINE",
-		"exchanges": ["okex", "gateio", "bitget"]
+		"exchanges": ["okex", "gateio", "bitget"],
+		"read_as": "VINE / USDT"
 	},
 	{
 		"id": 235,
 		"underlying_asset_id": 128,
 		"symbol": ".DEVINEUSD",
 		"underlying_asset": "VINE",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "VINE / USD"
 	},
 	{
 		"id": 236,
 		"underlying_asset_id": 129,
 		"symbol": ".DEVVVUSDT",
 		"underlying_asset": "VVV",
-		"exchanges": ["gateio", "bybit"]
+		"exchanges": ["gateio", "bybit"],
+		"read_as": "VVV / USDT"
 	},
 	{
 		"id": 237,
 		"underlying_asset_id": 129,
 		"symbol": ".DEVVVUSD",
 		"underlying_asset": "VVV",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "VVV / USD"
 	},
 	{
 		"id": 238,
 		"underlying_asset_id": 130,
 		"symbol": ".DEBERAUSDT",
 		"underlying_asset": "BERA",
-		"exchanges": ["binance", "bybit", "bitget"]
+		"exchanges": ["binance", "bybit", "bitget"],
+		"read_as": "BERA / USDT"
 	},
 	{
 		"id": 239,
 		"underlying_asset_id": 130,
 		"symbol": ".DEBERAUSD",
 		"underlying_asset": "BERA",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "BERA / USD"
 	},
 	{
 		"id": 240,
 		"underlying_asset_id": 131,
 		"symbol": ".DEIPUSDT",
 		"underlying_asset": "IP",
-		"exchanges": ["gateio", "bitget", "bybit"]
+		"exchanges": ["gateio", "bitget", "bybit"],
+		"read_as": "IP / USDT"
 	},
 	{
 		"id": 241,
 		"underlying_asset_id": 131,
 		"symbol": ".DEIPUSD",
 		"underlying_asset": "IP",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "IP / USD"
 	},
 	{
 		"id": 242,
 		"underlying_asset_id": 132,
 		"symbol": ".DECAKEUSDT",
 		"underlying_asset": "CAKE",
-		"exchanges": ["binance", "gateio", "bitget"]
+		"exchanges": ["binance", "gateio", "bitget"],
+		"read_as": "CAKE / USDT"
 	},
 	{
 		"id": 243,
 		"underlying_asset_id": 132,
 		"symbol": ".DECAKEUSD",
 		"underlying_asset": "CAKE",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "CAKE / USD"
 	},
 	{
 		"id": 244,
 		"underlying_asset_id": 133,
 		"symbol": ".DEBAKEUSDT",
 		"underlying_asset": "BAKE",
-		"exchanges": ["binance", "bitget", "gateio"]
+		"exchanges": ["binance", "bitget", "gateio"],
+		"read_as": "BAKE / USDT"
 	},
 	{
 		"id": 245,
 		"underlying_asset_id": 133,
 		"symbol": ".DEBAKEUSD",
 		"underlying_asset": "BAKE",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "BAKE / USD"
 	},
 	{
 		"id": 246,
 		"underlying_asset_id": 134,
 		"symbol": ".DETSTUSDT",
 		"underlying_asset": "TST",
-		"exchanges": ["binance"]
+		"exchanges": ["binance"],
+		"read_as": "TST / USDT"
 	},
 	{
 		"id": 247,
 		"underlying_asset_id": 134,
 		"symbol": ".DETSTUSD",
 		"underlying_asset": "TST",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "TST / USD"
 	},
 	{
 		"id": 248,
 		"underlying_asset_id": 135,
 		"symbol": ".DEGLMUSDT",
 		"underlying_asset": "GLM",
-		"exchanges": ["binance", "okex", "bitget"]
+		"exchanges": ["binance", "okex", "bitget"],
+		"read_as": "GLM / USDT"
 	},
 	{
 		"id": 249,
 		"underlying_asset_id": 135,
 		"symbol": ".DEGLMUSD",
 		"underlying_asset": "GLM",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "GLM / USD"
 	},
 	{
 		"id": 250,
 		"underlying_asset_id": 136,
 		"symbol": ".DEPIUSDT",
 		"underlying_asset": "PI",
-		"exchanges": ["okex", "gateio", "bitget"]
+		"exchanges": ["okex", "gateio", "bitget"],
+		"read_as": "PI / USDT"
 	},
 	{
 		"id": 251,
 		"underlying_asset_id": 136,
 		"symbol": ".DEPIUSD",
 		"underlying_asset": "PI",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "PI / USD"
 	},
 	{
 		"id": 252,
 		"underlying_asset_id": 137,
 		"symbol": ".DEKAITOUSDT",
 		"underlying_asset": "KAITO",
-		"exchanges": ["binance", "gateio", "bitget"]
+		"exchanges": ["binance", "gateio", "bitget"],
+		"read_as": "KAITO / USDT"
 	},
 	{
 		"id": 253,
 		"underlying_asset_id": 137,
 		"symbol": ".DEKAITOUSD",
 		"underlying_asset": "KAITO",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "KAITO / USD"
 	},
 	{
 		"id": 254,
 		"underlying_asset_id": 138,
 		"symbol": ".DEAUCTIONUSDT",
 		"underlying_asset": "AUCTION",
-		"exchanges": ["binance", "okex", "gateio"]
+		"exchanges": ["binance", "okex", "gateio"],
+		"read_as": "AUCTION / USDT"
 	},
 	{
 		"id": 255,
 		"underlying_asset_id": 138,
 		"symbol": ".DEAUCTIONUSD",
 		"underlying_asset": "AUCTION",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "AUCTION / USD"
 	},
 	{
 		"id": 256,
 		"underlying_asset_id": 139,
 		"symbol": ".DEREDUSDT",
 		"underlying_asset": "RED",
-		"exchanges": ["binance", "gateio", "bybit"]
+		"exchanges": ["binance", "gateio", "bybit"],
+		"read_as": "RED / USDT"
 	},
 	{
 		"id": 257,
 		"underlying_asset_id": 139,
 		"symbol": ".DEREDUSD",
 		"underlying_asset": "RED",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "RED / USD"
 	},
 	{
 		"id": 258,
 		"underlying_asset_id": 140,
 		"symbol": ".DERAREUSDT",
 		"underlying_asset": "RARE",
-		"exchanges": ["binance", "gateio"]
+		"exchanges": ["binance", "gateio"],
+		"read_as": "RARE / USDT"
 	},
 	{
 		"id": 259,
 		"underlying_asset_id": 140,
 		"symbol": ".DERAREUSD",
 		"underlying_asset": "RARE",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "RARE / USD"
 	},
 	{
 		"id": 260,
 		"underlying_asset_id": 141,
 		"symbol": ".DELAYERUSDT",
 		"underlying_asset": "LAYER",
-		"exchanges": ["binance", "gateio", "bitget"]
+		"exchanges": ["binance", "gateio", "bitget"],
+		"read_as": "LAYER / USDT"
 	},
 	{
 		"id": 261,
 		"underlying_asset_id": 141,
 		"symbol": ".DELAYERUSD",
 		"underlying_asset": "LAYER",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "LAYER / USD"
 	},
 	{
 		"id": 262,
 		"underlying_asset_id": 142,
 		"symbol": ".DEBMTUSDT",
 		"underlying_asset": "BMT",
-		"exchanges": ["binance", "bybit", "bitget"]
+		"exchanges": ["binance", "bybit", "bitget"],
+		"read_as": "BMT / USDT"
 	},
 	{
 		"id": 263,
 		"underlying_asset_id": 142,
 		"symbol": ".DEBMTUSD",
 		"underlying_asset": "BMT",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "BMT / USD"
 	},
 	{
 		"id": 264,
 		"underlying_asset_id": 143,
 		"symbol": ".DEMUBARAKUSDT",
 		"underlying_asset": "MUBARAK",
-		"exchanges": ["gateio", "bitget"]
+		"exchanges": ["gateio", "bitget"],
+		"read_as": "MUBARAK / USDT"
 	},
 	{
 		"id": 265,
 		"underlying_asset_id": 143,
 		"symbol": ".DEMUBARAKUSD",
 		"underlying_asset": "MUBARAK",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "MUBARAK / USD"
 	},
 	{
 		"id": 266,
 		"underlying_asset_id": 144,
 		"symbol": ".DEAPI3USDT",
 		"underlying_asset": "API3",
-		"exchanges": ["binance", "okex", "gateio"]
+		"exchanges": ["binance", "okex", "gateio"],
+		"read_as": "API3 / USDT"
 	},
 	{
 		"id": 267,
 		"underlying_asset_id": 144,
 		"symbol": ".DEAPI3USD",
 		"underlying_asset": "API3",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "API3 / USD"
 	},
 	{
 		"id": 268,
 		"underlying_asset_id": 145,
 		"symbol": ".DEXUSDT",
 		"underlying_asset": "X",
-		"exchanges": ["okex", "gateio", "bybit"]
+		"exchanges": ["okex", "gateio", "bybit"],
+		"read_as": "X / USDT"
 	},
 	{
 		"id": 269,
 		"underlying_asset_id": 146,
 		"symbol": ".DE1000XUSD",
 		"underlying_asset": "1000X",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "1000X / USD"
 	},
 	{
 		"id": 270,
 		"underlying_asset_id": 13,
 		"symbol": ".DEXBTUSDT_LTP",
 		"underlying_asset": "BTC",
-		"exchanges": ["binance", "bybit", "okex"]
+		"exchanges": ["binance", "bybit", "okex"],
+		"read_as": "BTC / USDT (LTP)"
 	},
 	{
 		"id": 271,
 		"underlying_asset_id": 12,
 		"symbol": ".DEETHUSDT_LTP",
 		"underlying_asset": "ETH",
-		"exchanges": ["binance", "bybit", "okex"]
+		"exchanges": ["binance", "bybit", "okex"],
+		"read_as": "ETH / USDT (LTP)"
 	},
 	{
 		"id": 272,
 		"underlying_asset_id": 19,
 		"symbol": ".DEXRPUSDT_LTP",
 		"underlying_asset": "XRP",
-		"exchanges": ["binance", "bybit", "okex"]
+		"exchanges": ["binance", "bybit", "okex"],
+		"read_as": "XRP / USDT (LTP)"
 	},
 	{
 		"id": 273,
 		"underlying_asset_id": 22,
 		"symbol": ".DELTCUSDT_LTP",
 		"underlying_asset": "LTC",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "LTC / USDT (LTP)"
 	},
 	{
 		"id": 274,
 		"underlying_asset_id": 24,
 		"symbol": ".DEBNBUSDT_LTP",
 		"underlying_asset": "BNB",
-		"exchanges": ["binance", "gateio"]
+		"exchanges": ["binance", "gateio"],
+		"read_as": "BNB / USDT (LTP)"
 	},
 	{
 		"id": 275,
 		"underlying_asset_id": 21,
 		"symbol": ".DEBCHUSDT_LTP",
 		"underlying_asset": "BCH",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "BCH / USDT (LTP)"
 	},
 	{
 		"id": 276,
 		"underlying_asset_id": 32,
 		"symbol": ".DEADAUSDT_LTP",
 		"underlying_asset": "ADA",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "ADA / USDT (LTP)"
 	},
 	{
 		"id": 277,
 		"underlying_asset_id": 25,
 		"symbol": ".DELINKUSDT_LTP",
 		"underlying_asset": "LINK",
-		"exchanges": ["binance", "okex"]
+		"exchanges": ["binance", "okex"],
+		"read_as": "LINK / USDT (LTP)"
 	},
 	{
 		"id": 278,
 		"underlying_asset_id": 151,
 		"symbol": ".DEINITUSDT",
 		"underlying_asset": "INIT",
-		"exchanges": ["binance", "bybit", "bitget"]
+		"exchanges": ["binance", "bybit", "bitget"],
+		"read_as": "INIT / USDT"
 	},
 	{
 		"id": 279,
 		"underlying_asset_id": 151,
 		"symbol": ".DEINITUSD",
 		"underlying_asset": "INIT",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "INIT / USD"
 	},
 	{
 		"id": 280,
 		"underlying_asset_id": 147,
 		"symbol": ".DEDEEPUSDT",
 		"underlying_asset": "DEEP",
-		"exchanges": ["gateio", "bybit"]
+		"exchanges": ["gateio", "bybit"],
+		"read_as": "DEEP / USDT"
 	},
 	{
 		"id": 281,
 		"underlying_asset_id": 147,
 		"symbol": ".DEDEEPUSD",
 		"underlying_asset": "DEEP",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "DEEP / USD"
 	},
 	{
 		"id": 282,
 		"underlying_asset_id": 150,
 		"symbol": ".DEMEMEFIUSDT",
 		"underlying_asset": "MEMEFI",
-		"exchanges": ["okex", "gateio", "bitget"]
+		"exchanges": ["okex", "gateio", "bitget"],
+		"read_as": "MEMEFI / USDT"
 	},
 	{
 		"id": 283,
 		"underlying_asset_id": 150,
 		"symbol": ".DEMEMEFIUSD",
 		"underlying_asset": "MEMEFI",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "MEMEFI / USD"
 	},
 	{
 		"id": 284,
 		"underlying_asset_id": 148,
 		"symbol": ".DESIGNUSDT",
 		"underlying_asset": "SIGN",
-		"exchanges": ["binance", "gateio", "bitget"]
+		"exchanges": ["binance", "gateio", "bitget"],
+		"read_as": "SIGN / USDT"
 	},
 	{
 		"id": 285,
 		"underlying_asset_id": 148,
 		"symbol": ".DESIGNUSD",
 		"underlying_asset": "SIGN",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "SIGN / USD"
 	},
 	{
 		"id": 286,
 		"underlying_asset_id": 149,
 		"symbol": ".DEWCTUSDT",
 		"underlying_asset": "WCT",
-		"exchanges": ["binance", "okex", "bitget"]
+		"exchanges": ["binance", "okex", "bitget"],
+		"read_as": "WCT / USDT"
 	},
 	{
 		"id": 287,
 		"underlying_asset_id": 149,
 		"symbol": ".DEWCTUSD",
 		"underlying_asset": "WCT",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "WCT / USD"
 	},
 	{
 		"id": 288,
 		"underlying_asset_id": 152,
 		"symbol": ".DEHYPEUSDT",
 		"underlying_asset": "HYPE",
-		"exchanges": ["gateio", "bitget"]
+		"exchanges": ["gateio", "bitget"],
+		"read_as": "HYPE / USDT"
 	},
 	{
 		"id": 289,
 		"underlying_asset_id": 152,
 		"symbol": ".DEHYPEUSD",
 		"underlying_asset": "HYPE",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "HYPE / USD"
 	},
 	{
 		"id": 290,
 		"underlying_asset_id": 153,
 		"symbol": ".DEMASKUSDT",
 		"underlying_asset": "MASK",
-		"exchanges": ["binance", "gateio", "okex"]
+		"exchanges": ["binance", "gateio", "okex"],
+		"read_as": "MASK / USDT"
 	},
 	{
 		"id": 291,
 		"underlying_asset_id": 153,
 		"symbol": ".DEMASKUSD",
 		"underlying_asset": "MASK",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "MASK / USD"
 	},
 	{
 		"id": 292,
 		"underlying_asset_id": 155,
 		"symbol": ".DEMEUSDT",
 		"underlying_asset": "ME",
-		"exchanges": ["binance", "bitget", "okex"]
+		"exchanges": ["binance", "bitget", "okex"],
+		"read_as": "ME / USDT"
 	},
 	{
 		"id": 293,
 		"underlying_asset_id": 155,
 		"symbol": ".DEMEUSD",
 		"underlying_asset": "ME",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "ME / USD"
 	},
 	{
 		"id": 294,
 		"underlying_asset_id": 154,
 		"symbol": ".DESOPHUSDT",
 		"underlying_asset": "SOPH",
-		"exchanges": ["binance", "bitget", "okex"]
+		"exchanges": ["binance", "bitget", "okex"],
+		"read_as": "SOPH / USDT"
 	},
 	{
 		"id": 295,
 		"underlying_asset_id": 154,
 		"symbol": ".DESOPHUSD",
 		"underlying_asset": "SOPH",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "SOPH / USD"
 	},
 	{
 		"id": 296,
 		"underlying_asset_id": 156,
 		"symbol": ".DEBIDUSDT",
 		"underlying_asset": "BID",
-		"exchanges": ["gateio"]
+		"exchanges": ["gateio"],
+		"read_as": "BID / USDT"
 	},
 	{
 		"id": 297,
 		"underlying_asset_id": 156,
 		"symbol": ".DEBIDUSD",
 		"underlying_asset": "BID",
-		"exchanges": "null"
+		"exchanges": "null",
+		"read_as": "BID / USD"
 	}
 ]
